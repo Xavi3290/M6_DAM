@@ -1,0 +1,13 @@
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\obj\Debug\Exercici1EntitiesB.csproj.AssemblyReference.cache
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\obj\Debug\Exercici1EntitiesB.csproj.SuggestedBindingRedirects.cache
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\obj\Debug\Exercici1EntitiesB.csproj.CoreCompileInputs.cache
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\bin\Debug\Exercici1EntitiesB.exe.config
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\bin\Debug\Exercici1EntitiesB.exe
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\bin\Debug\Exercici1EntitiesB.pdb
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\bin\Debug\EntityFramework.dll
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\bin\Debug\EntityFramework.xml
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\obj\Debug\Exercici1EntitiesB.csproj.CopyComplete
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\obj\Debug\Exercici1EntitiesB.exe
+C:\C#\Exercici1EntitiesB\Exercici1EntitiesB\obj\Debug\Exercici1EntitiesB.pdb

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<biographies>
+		<biography id="1" firstname="John" lastname="Backus">
+			<birthYear>1924</birthYear>
+			<deathYear>2007</deathYear>
+			<contribs>Fortran</contribs>
+			<contribs>ALGOL</contribs>
+			<contribs>Backus-Naur Form</contribs>
+			<contribs>FP</contribs>
+			<awards>
+				<award>W.W. McDowell Award</award>
+				<year>1967</year>
+				<by>IEEE Computer Society</by>
+			</awards>
+			<awards>
+				<award>National Medal of Science</award>
+				<year>1975</year>
+				<by>National Science Foundation</by>
+			</awards>
+			<awards>
+				<award>Turing Award</award>
+				<year>1977</year>
+				<by>ACM</by>
+			</awards>
+			<awards>
+				<award>Draper Prize</award>
+				<year>1993</year>
+				<by>National Academy of Engineering</by>
+			</awards>
+		</biography>
+		<biography id="3" firstname="Grace" lastname="Hopper">
+			<birthYear>1915</birthYear>
+			<deathYear>1992</deathYear>
+			<contribs>UNIVAC</contribs>
+			<contribs>compiler</contribs>
+			<contribs>FLOW-MATIC</contribs>
+			<contribs>COBOL</contribs>
+			<awards>
+				<award>Computer Sciences Man of the Year</award>
+				<year>1969</year>
+				<by>Data Processing Management Association</by>
+			</awards>
+			<awards>
+				<award>Distinguished Fellow</award>
+				<year>1973</year>
+				<by> British Computer Society</by>
+			</awards>
+			<awards>
+				<award>W. W. McDowell Award</award>
+				<year>1976</year>
+				<by>IEEE Computer Society</by>
+			</awards>
+			<awards>
+				<award>National Medal of Technology</award>
+				<year>1991</year>
+				<by>United States</by>
+			</awards>
+		</biography>
+		<biography id="8" firstname="Yukihiro" lastname="Matsumoto">
+			<birthYear>1941</birthYear>
+			<contribs>Ruby</contribs>
+			<contribs>streem</contribs>
+			<awards>
+				<award>Award for the Advancement of Free Software</award>
+				<year>2011</year>
+				<by>Free Software Foundation</by>
+			</awards>
+			<awards>
+				<award>Award for the Advancement of Free Software</award>
+				<year>2011</year>
+				<by>Free Software Foundation</by>
+			</awards>                        
+		</biography>
+		<biography id="9" firstname="James" lastname="Gosling">
+			<birthYear>1965</birthYear>
+			<contribs>Java</contribs>
+			<contribs>Emacs</contribs>
+			<awards>
+				<award>The Economist Innovation Award</award>
+				<year>2002</year>
+				<by>The Economist</by>
+			</awards>
+			<awards>
+				<award>Officer of the Order of Canada</award>
+				<year>2007</year>
+				<by>Canada</by>
+			</awards>
+		</biography>
+		<biography id="10" firstname="Martin" lastname="Odersky">
+			<contribs>Scala</contribs>
+			<contribs>Generics in Java</contribs>
+                </biography>
+	</biographies>

@@ -1,0 +1,24 @@
+{
+  "employees": {
+    "employee": [
+      {
+        "-id": "1234",
+        "firstName": "Ferran",
+        "lastName": "Torrent",
+        "location": "València"
+      },
+      {
+        "-id": "2345",
+        "firstName": "M Pau",
+        "lastName": "Janer",
+        "location": "Ciutat de Mallorca"
+      },
+      {
+        "-id": "3456",
+        "firstName": "Joan Lluís",
+        "lastName": "Lluís",
+        "location": "Perpinyà"
+      }
+    ]
+  }
+}

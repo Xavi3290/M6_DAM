@@ -1,0 +1,11 @@
+C:\C#\Exercici1b\Exercici1b\obj\Debug\Exercici1b.csproj.AssemblyReference.cache
+C:\C#\Exercici1b\Exercici1b\obj\Debug\Exercici1b.csproj.SuggestedBindingRedirects.cache
+C:\C#\Exercici1b\Exercici1b\obj\Debug\Exercici1b.csproj.CoreCompileInputs.cache
+C:\C#\Exercici1b\Exercici1b\bin\Debug\Exercici1b.exe.config
+C:\C#\Exercici1b\Exercici1b\bin\Debug\Exercici1b.exe
+C:\C#\Exercici1b\Exercici1b\bin\Debug\Exercici1b.pdb
+C:\C#\Exercici1b\Exercici1b\bin\Debug\System.Data.SqlClient.dll
+C:\C#\Exercici1b\Exercici1b\bin\Debug\System.Data.SqlClient.xml
+C:\C#\Exercici1b\Exercici1b\obj\Debug\Exercici1b.csproj.CopyComplete
+C:\C#\Exercici1b\Exercici1b\obj\Debug\Exercici1b.exe
+C:\C#\Exercici1b\Exercici1b\obj\Debug\Exercici1b.pdb

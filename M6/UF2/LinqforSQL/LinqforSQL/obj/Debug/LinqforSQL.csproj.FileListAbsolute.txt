@@ -1,0 +1,8 @@
+C:\C#\LinqforSQL\LinqforSQL\bin\Debug\LinqforSQL.exe.config
+C:\C#\LinqforSQL\LinqforSQL\bin\Debug\LinqforSQL.exe
+C:\C#\LinqforSQL\LinqforSQL\bin\Debug\LinqforSQL.pdb
+C:\C#\LinqforSQL\LinqforSQL\obj\Debug\LinqforSQL.csproj.AssemblyReference.cache
+C:\C#\LinqforSQL\LinqforSQL\obj\Debug\LinqforSQL.csproj.SuggestedBindingRedirects.cache
+C:\C#\LinqforSQL\LinqforSQL\obj\Debug\LinqforSQL.csproj.CoreCompileInputs.cache
+C:\C#\LinqforSQL\LinqforSQL\obj\Debug\LinqforSQL.exe
+C:\C#\LinqforSQL\LinqforSQL\obj\Debug\LinqforSQL.pdb

@@ -1,0 +1,26 @@
+{
+  "bookstore": {
+    "book": [
+      {
+        "-category": "category1",
+        "title": {
+          "-lang": "lang1",
+          "#text": "text1"
+        },
+        "author": "author1",
+        "year": 1,
+        "price": 1.0
+      },
+      {
+        "-category": "category2",
+        "title": {
+          "-lang": "lang2",
+          "#text": "text2"
+        },
+        "author": "author2",
+        "year": 2,
+        "price": 2.2
+      }
+    ]
+  }
+}

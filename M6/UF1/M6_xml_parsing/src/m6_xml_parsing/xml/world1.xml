@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resultset statement="select Name, Population from City where District='Katalonia'" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="Name">Barcelona</field>
+	<field name="Population">1503451</field>
+  </row>
+
+  <row>
+	<field name="Name">L´Hospitalet de Llobregat</field>
+	<field name="Population">247986</field>
+  </row>
+
+  <row>
+	<field name="Name">Badalona</field>
+	<field name="Population">209635</field>
+  </row>
+
+  <row>
+	<field name="Name">Sabadell</field>
+	<field name="Population">184859</field>
+  </row>
+
+  <row>
+	<field name="Name">Terrassa</field>
+	<field name="Population">168695</field>
+  </row>
+
+  <row>
+	<field name="Name">Santa Coloma de Gramenet</field>
+	<field name="Population">120802</field>
+  </row>
+
+  <row>
+	<field name="Name">Tarragona</field>
+	<field name="Population">113016</field>
+  </row>
+
+  <row>
+	<field name="Name">Lleida (Lérida)</field>
+	<field name="Population">112207</field>
+  </row>
+
+  <row>
+	<field name="Name">Mataró</field>
+	<field name="Population">104095</field>
+  </row>
+</resultset>

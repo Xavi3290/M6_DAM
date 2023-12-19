@@ -1,0 +1,17 @@
+C:\C#\Prova\Prova\bin\Debug\Prova.exe.config
+C:\C#\Prova\Prova\bin\Debug\Prova.exe
+C:\C#\Prova\Prova\bin\Debug\Prova.pdb
+C:\C#\Prova\Prova\bin\Debug\EntityFramework.dll
+C:\C#\Prova\Prova\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Prova\Prova\bin\Debug\System.Data.SQLite.dll
+C:\C#\Prova\Prova\bin\Debug\System.Data.SQLite.EF6.dll
+C:\C#\Prova\Prova\bin\Debug\System.Data.SQLite.Linq.dll
+C:\C#\Prova\Prova\bin\Debug\EntityFramework.xml
+C:\C#\Prova\Prova\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Prova\Prova\bin\Debug\System.Data.SQLite.xml
+C:\C#\Prova\Prova\obj\Debug\Prova.csproj.AssemblyReference.cache
+C:\C#\Prova\Prova\obj\Debug\Prova.csproj.SuggestedBindingRedirects.cache
+C:\C#\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\C#\Prova\Prova\obj\Debug\Prova.csproj.CopyComplete
+C:\C#\Prova\Prova\obj\Debug\Prova.exe
+C:\C#\Prova\Prova\obj\Debug\Prova.pdb

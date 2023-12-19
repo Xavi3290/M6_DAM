@@ -1,0 +1,16 @@
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\bin\Debug\ActivitatMVC1.1.exe.config
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\bin\Debug\ActivitatMVC1.1.exe
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\bin\Debug\ActivitatMVC1.1.pdb
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\bin\Debug\EntityFramework.dll
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\bin\Debug\EntityFramework.xml
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\obj\Debug\ActivitatMVC1.1.csproj.AssemblyReference.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\obj\Debug\ActivitatMVC1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\obj\Debug\ActivitatMVC1._1.Properties.Resources.resources
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\obj\Debug\ActivitatMVC1._1.View.Form1.resources
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\obj\Debug\ActivitatMVC1.1.csproj.GenerateResource.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\obj\Debug\ActivitatMVC1.1.csproj.CoreCompileInputs.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\obj\Debug\ActivitatMVC1.1.csproj.CopyComplete
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\obj\Debug\ActivitatMVC1.1.exe
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\ActivitatMVC1.1\ActivitatMVC1.1\obj\Debug\ActivitatMVC1.1.pdb

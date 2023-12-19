@@ -1,0 +1,30 @@
+{
+  "employees": {
+    "employee": [
+      {
+        "-id": "123",
+        "firstName": "Jordi",
+        "lastName": "Savall",
+        "location": "Reus"
+      },
+      {
+        "-id": "127",
+        "firstName": "Pere",
+        "lastName": "Suau",
+        "location": "Terrassa"
+      },
+      {
+        "-id": "231",
+        "firstName": "Emile",
+        "lastName": "Dupont",
+        "location": "Paris"
+      },
+      {
+        "-id": "317",
+        "firstName": "John",
+        "lastName": "White",
+        "location": "London"
+      }
+    ]
+  }
+}

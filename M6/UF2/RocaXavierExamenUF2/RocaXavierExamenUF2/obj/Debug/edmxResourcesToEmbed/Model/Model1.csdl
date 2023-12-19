@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ciclismeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ciclista">
+    <Key>
+      <PropertyRef Name="dorsal" />
+    </Key>
+    <Property Name="dorsal" Type="Int16" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="edad" Type="Int16" />
+    <Property Name="nomeq" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="equipo" Relationship="Self.ciclista_ibfk_1" FromRole="ciclista" ToRole="equipo" />
+    <NavigationProperty Name="etapas" Relationship="Self.etapa_ibfk_1" FromRole="ciclista" ToRole="etapa" />
+    <NavigationProperty Name="llevars" Relationship="Self.llevar_ibfk_1" FromRole="ciclista" ToRole="llevar" />
+    <NavigationProperty Name="puertoes" Relationship="Self.puerto_ibfk_1" FromRole="ciclista" ToRole="puerto" />
+  </EntityType>
+  <EntityType Name="equipo">
+    <Key>
+      <PropertyRef Name="nomeq" />
+    </Key>
+    <Property Name="nomeq" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="director" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="ciclistas" Relationship="Self.ciclista_ibfk_1" FromRole="equipo" ToRole="ciclista" />
+  </EntityType>
+  <EntityType Name="etapa">
+    <Key>
+      <PropertyRef Name="netapa" />
+    </Key>
+    <Property Name="netapa" Type="Int16" Nullable="false" />
+    <Property Name="km" Type="Int16" />
+    <Property Name="salida" Type="String" MaxLength="35" FixedLength="false" Unicode="false" />
+    <Property Name="llegada" Type="String" MaxLength="35" FixedLength="false" Unicode="false" />
+    <Property Name="dorsal" Type="Int16" Nullable="false" />
+    <NavigationProperty Name="ciclista" Relationship="Self.etapa_ibfk_1" FromRole="etapa" ToRole="ciclista" />
+    <NavigationProperty Name="llevars" Relationship="Self.llevar_ibfk_2" FromRole="etapa" ToRole="llevar" />
+    <NavigationProperty Name="puertoes" Relationship="Self.puerto_ibfk_2" FromRole="etapa" ToRole="puerto" />
+  </EntityType>
+  <EntityType Name="llevar">
+    <Key>
+      <PropertyRef Name="netapa" />
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="dorsal" Type="Int16" Nullable="false" />
+    <Property Name="netapa" Type="Int16" Nullable="false" />
+    <Property Name="codigo" Type="String" MaxLength="3" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="ciclista" Relationship="Self.llevar_ibfk_1" FromRole="llevar" ToRole="ciclista" />
+    <NavigationProperty Name="etapa" Relationship="Self.llevar_ibfk_2" FromRole="llevar" ToRole="etapa" />
+    <NavigationProperty Name="maillot" Relationship="Self.llevar_ibfk_3" FromRole="llevar" ToRole="maillot" />
+  </EntityType>
+  <EntityType Name="maillot">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="String" MaxLength="3" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tipo" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="color" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="premio" Type="Int32" />
+    <NavigationProperty Name="llevars" Relationship="Self.llevar_ibfk_3" FromRole="maillot" ToRole="llevar" />
+  </EntityType>
+  <EntityType Name="puerto">
+    <Key>
+      <PropertyRef Name="nompuerto" />
+    </Key>
+    <Property Name="nompuerto" Type="String" MaxLength="35" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="altura" Type="Int16" />
+    <Property Name="categoria" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Name="pendiente" Type="Double" />
+    <Property Name="netapa" Type="Int16" Nullable="false" />
+    <Property Name="dorsal" Type="Int16" Nullable="false" />
+    <NavigationProperty Name="ciclista" Relationship="Self.puerto_ibfk_1" FromRole="puerto" ToRole="ciclista" />
+    <NavigationProperty Name="etapa" Relationship="Self.puerto_ibfk_2" FromRole="puerto" ToRole="etapa" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="ciclista_ibfk_1">
+    <End Role="equipo" Type="Self.equipo" Multiplicity="1" />
+    <End Role="ciclista" Type="Self.ciclista" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="equipo">
+        <PropertyRef Name="nomeq" />
+      </Principal>
+      <Dependent Role="ciclista">
+        <PropertyRef Name="nomeq" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="etapa_ibfk_1">
+    <End Role="ciclista" Type="Self.ciclista" Multiplicity="1" />
+    <End Role="etapa" Type="Self.etapa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ciclista">
+        <PropertyRef Name="dorsal" />
+      </Principal>
+      <Dependent Role="etapa">
+        <PropertyRef Name="dorsal" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="llevar_ibfk_1">
+    <End Role="ciclista" Type="Self.ciclista" Multiplicity="1" />
+    <End Role="llevar" Type="Self.llevar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ciclista">
+        <PropertyRef Name="dorsal" />
+      </Principal>
+      <Dependent Role="llevar">
+        <PropertyRef Name="dorsal" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="puerto_ibfk_1">
+    <End Role="ciclista" Type="Self.ciclista" Multiplicity="1" />
+    <End Role="puerto" Type="Self.puerto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ciclista">
+        <PropertyRef Name="dorsal" />
+      </Principal>
+      <Dependent Role="puerto">
+        <PropertyRef Name="dorsal" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="llevar_ibfk_2">
+    <End Role="etapa" Type="Self.etapa" Multiplicity="1" />
+    <End Role="llevar" Type="Self.llevar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="etapa">
+        <PropertyRef Name="netapa" />
+      </Principal>
+      <Dependent Role="llevar">
+        <PropertyRef Name="netapa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="puerto_ibfk_2">
+    <End Role="etapa" Type="Self.etapa" Multiplicity="1" />
+    <End Role="puerto" Type="Self.puerto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="etapa">
+        <PropertyRef Name="netapa" />
+      </Principal>
+      <Dependent Role="puerto">
+        <PropertyRef Name="netapa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="llevar_ibfk_3">
+    <End Role="maillot" Type="Self.maillot" Multiplicity="1" />
+    <End Role="llevar" Type="Self.llevar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="maillot">
+        <PropertyRef Name="codigo" />
+      </Principal>
+      <Dependent Role="llevar">
+        <PropertyRef Name="codigo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ciclismeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ciclistas" EntityType="Self.ciclista" />
+    <EntitySet Name="equipoes" EntityType="Self.equipo" />
+    <EntitySet Name="etapas" EntityType="Self.etapa" />
+    <EntitySet Name="llevars" EntityType="Self.llevar" />
+    <EntitySet Name="maillots" EntityType="Self.maillot" />
+    <EntitySet Name="puertoes" EntityType="Self.puerto" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="ciclista_ibfk_1" Association="Self.ciclista_ibfk_1">
+      <End Role="equipo" EntitySet="equipoes" />
+      <End Role="ciclista" EntitySet="ciclistas" />
+    </AssociationSet>
+    <AssociationSet Name="etapa_ibfk_1" Association="Self.etapa_ibfk_1">
+      <End Role="ciclista" EntitySet="ciclistas" />
+      <End Role="etapa" EntitySet="etapas" />
+    </AssociationSet>
+    <AssociationSet Name="llevar_ibfk_1" Association="Self.llevar_ibfk_1">
+      <End Role="ciclista" EntitySet="ciclistas" />
+      <End Role="llevar" EntitySet="llevars" />
+    </AssociationSet>
+    <AssociationSet Name="puerto_ibfk_1" Association="Self.puerto_ibfk_1">
+      <End Role="ciclista" EntitySet="ciclistas" />
+      <End Role="puerto" EntitySet="puertoes" />
+    </AssociationSet>
+    <AssociationSet Name="llevar_ibfk_2" Association="Self.llevar_ibfk_2">
+      <End Role="etapa" EntitySet="etapas" />
+      <End Role="llevar" EntitySet="llevars" />
+    </AssociationSet>
+    <AssociationSet Name="puerto_ibfk_2" Association="Self.puerto_ibfk_2">
+      <End Role="etapa" EntitySet="etapas" />
+      <End Role="puerto" EntitySet="puertoes" />
+    </AssociationSet>
+    <AssociationSet Name="llevar_ibfk_3" Association="Self.llevar_ibfk_3">
+      <End Role="maillot" EntitySet="maillots" />
+      <End Role="llevar" EntitySet="llevars" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(ciclismeModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(ciclismeModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

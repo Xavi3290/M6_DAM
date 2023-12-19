@@ -1,0 +1,16 @@
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\bin\Debug\RocaXavierExamenUF2.exe.config
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\bin\Debug\RocaXavierExamenUF2.exe
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\bin\Debug\RocaXavierExamenUF2.pdb
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\bin\Debug\EntityFramework.dll
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\bin\Debug\EntityFramework.xml
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\obj\Debug\RocaXavierExamenUF2.csproj.AssemblyReference.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\obj\Debug\RocaXavierExamenUF2.csproj.SuggestedBindingRedirects.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\obj\Debug\RocaXavierExamenUF2.Properties.Resources.resources
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\obj\Debug\RocaXavierExamenUF2.View.Form1.resources
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\obj\Debug\RocaXavierExamenUF2.csproj.GenerateResource.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\obj\Debug\RocaXavierExamenUF2.csproj.CoreCompileInputs.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\obj\Debug\RocaXavierExamenUF2.csproj.CopyComplete
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\obj\Debug\RocaXavierExamenUF2.exe
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M6\UF2\RocaXavierExamenUF2\RocaXavierExamenUF2\obj\Debug\RocaXavierExamenUF2.pdb

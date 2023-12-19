@@ -1,0 +1,13 @@
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\bin\Debug\LingforSQLambEntity.exe.config
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\bin\Debug\LingforSQLambEntity.exe
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\bin\Debug\LingforSQLambEntity.pdb
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\bin\Debug\EntityFramework.dll
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\bin\Debug\EntityFramework.xml
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\obj\Debug\LingforSQLambEntity.csproj.AssemblyReference.cache
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\obj\Debug\LingforSQLambEntity.csproj.SuggestedBindingRedirects.cache
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\obj\Debug\LingforSQLambEntity.csproj.CoreCompileInputs.cache
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\obj\Debug\LingforSQLambEntity.csproj.CopyComplete
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\obj\Debug\LingforSQLambEntity.exe
+C:\C#\LingforSQLambEntity\LingforSQLambEntity\obj\Debug\LingforSQLambEntity.pdb

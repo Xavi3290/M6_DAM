@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore>
+    <book category="category1">
+        <author>autor1</author>
+        <price>1.0</price>
+        <title lang="lang1">title1</title>
+        <year>1</year>
+    </book>
+    <book category="category2">
+        <author>autor2</author>
+        <price>2.0</price>
+        <title lang="lang2">title2</title>
+        <year>2</year>
+    </book>
+    <book category="category3">
+        <author>autor3</author>
+        <price>3.0</price>
+        <title lang="lang3">title3</title>
+        <year>3</year>
+    </book>
+    <book category="category4">
+        <author>autor4</author>
+        <price>4.0</price>
+        <title lang="lang3">title3</title>
+        <year>4</year>
+    </book>
+</bookstore>

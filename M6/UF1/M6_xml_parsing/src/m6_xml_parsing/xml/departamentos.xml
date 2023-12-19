@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<departamentos>
+  <departamento>
+    <numero>1</numero>
+    <nombre>Administracion</nombre>
+    <localidad>Huesca</localidad>
+  </departamento>
+  <departamento>
+    <numero>2</numero>
+    <nombre>Marketing</nombre>
+    <localidad>Zaragoza</localidad>
+  </departamento>
+  <departamento>
+    <numero>3</numero>
+    <nombre>Ventas</nombre>
+    <localidad>Teruel</localidad>
+  </departamento>
+</departamentos>

@@ -1,0 +1,22 @@
+<departaments>
+  <departament>
+    <num>1</num>
+    <nom>Disseny</nom>
+    <poblacio>Girona</poblacio>
+  </departament>
+  <departament>
+    <num>2</num>
+    <nom>Vendes</nom>
+    <poblacio>Barcelona</poblacio>
+  </departament>
+  <departament>
+    <num>3</num>
+    <nom>Desenvolupament</nom>
+    <poblacio>Granollers</poblacio>
+  </departament>
+  <departament>
+    <num>4</num>
+    <nom>Administració</nom>
+    <poblacio>Manresa</poblacio>
+  </departament>
+</departaments>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<employees>
+  <employee id="123">
+    <firstName>Jordi</firstName>
+    <lastName>Savall</lastName>
+    <location>Reus</location>
+  </employee>
+  <employee id="231">
+    <firstName>Emile</firstName>
+    <lastName>Dupont</lastName>
+    <location>Paris</location>
+  </employee>
+  <employee id="317">
+    <firstName>John</firstName>
+    <lastName>White</lastName>
+    <location>London</location>
+  </employee>
+</employees>

@@ -1,0 +1,4305 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<resultset statement="SELECT * FROM Country" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="Code">ABW</field>
+	<field name="Name">Aruba</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">193.00</field>
+	<field name="IndepYear">2014</field>
+	<field name="Population">103000</field>
+	<field name="LifeExpectancy">78.4</field>
+	<field name="GNP">828.00</field>
+	<field name="GNPOld">793.00</field>
+	<field name="LocalName">Aruba</field>
+	<field name="GovernmentForm">Nonmetropolitan Territory of The Netherlands</field>
+	<field name="HeadOfState">Beatrix</field>
+	<field name="Capital">129</field>
+	<field name="Code2">AW</field>
+  </row>
+
+  <row>
+	<field name="Code">AFG</field>
+	<field name="Name">Afghanistan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">652090.00</field>
+	<field name="IndepYear">1919</field>
+	<field name="Population">22720000</field>
+	<field name="LifeExpectancy">45.9</field>
+	<field name="GNP">5976.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Afganistan/Afqanestan</field>
+	<field name="GovernmentForm">Islamic Emirate</field>
+	<field name="HeadOfState">Mohammad Omar</field>
+	<field name="Capital">1</field>
+	<field name="Code2">AF</field>
+  </row>
+
+  <row>
+	<field name="Code">AGO</field>
+	<field name="Name">Angola</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Central Africa</field>
+	<field name="SurfaceArea">1246700.00</field>
+	<field name="IndepYear">1975</field>
+	<field name="Population">12878000</field>
+	<field name="LifeExpectancy">38.3</field>
+	<field name="GNP">6648.00</field>
+	<field name="GNPOld">7984.00</field>
+	<field name="LocalName">Angola</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">José Eduardo dos Santos</field>
+	<field name="Capital">56</field>
+	<field name="Code2">AO</field>
+  </row>
+
+  <row>
+	<field name="Code">AIA</field>
+	<field name="Name">Anguilla</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">96.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">8000</field>
+	<field name="LifeExpectancy">76.1</field>
+	<field name="GNP">63.20</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Anguilla</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">62</field>
+	<field name="Code2">AI</field>
+  </row>
+
+  <row>
+	<field name="Code">ALB</field>
+	<field name="Name">Albania</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">28748.00</field>
+	<field name="IndepYear">1912</field>
+	<field name="Population">3401200</field>
+	<field name="LifeExpectancy">71.6</field>
+	<field name="GNP">3205.00</field>
+	<field name="GNPOld">2500.00</field>
+	<field name="LocalName">Shqipëria</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Rexhep Mejdani</field>
+	<field name="Capital">34</field>
+	<field name="Code2">AL</field>
+  </row>
+
+  <row>
+	<field name="Code">AND</field>
+	<field name="Name">Andorra</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">468.00</field>
+	<field name="IndepYear">1278</field>
+	<field name="Population">78000</field>
+	<field name="LifeExpectancy">83.5</field>
+	<field name="GNP">1630.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Andorra</field>
+	<field name="GovernmentForm">Parliamentary Coprincipality</field>
+	<field name="HeadOfState"></field>
+	<field name="Capital">55</field>
+	<field name="Code2">AD</field>
+  </row>
+
+  <row>
+	<field name="Code">ANT</field>
+	<field name="Name">Netherlands Antilles</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">800.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">217000</field>
+	<field name="LifeExpectancy">74.7</field>
+	<field name="GNP">1941.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Nederlandse Antillen</field>
+	<field name="GovernmentForm">Nonmetropolitan Territory of The Netherlands</field>
+	<field name="HeadOfState">Beatrix</field>
+	<field name="Capital">33</field>
+	<field name="Code2">AN</field>
+  </row>
+
+  <row>
+	<field name="Code">ARE</field>
+	<field name="Name">United Arab Emirates</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">83600.00</field>
+	<field name="IndepYear">1971</field>
+	<field name="Population">2441000</field>
+	<field name="LifeExpectancy">74.1</field>
+	<field name="GNP">37966.00</field>
+	<field name="GNPOld">36846.00</field>
+	<field name="LocalName">Al-Imarat al-´Arabiya al-Muttahida</field>
+	<field name="GovernmentForm">Emirate Federation</field>
+	<field name="HeadOfState">Zayid bin Sultan al-Nahayan</field>
+	<field name="Capital">65</field>
+	<field name="Code2">AE</field>
+  </row>
+
+  <row>
+	<field name="Code">ARG</field>
+	<field name="Name">Argentina</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">2780400.00</field>
+	<field name="IndepYear">1816</field>
+	<field name="Population">37032000</field>
+	<field name="LifeExpectancy">75.1</field>
+	<field name="GNP">340238.00</field>
+	<field name="GNPOld">323310.00</field>
+	<field name="LocalName">Argentina</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Fernando de la Rúa</field>
+	<field name="Capital">69</field>
+	<field name="Code2">AR</field>
+  </row>
+
+  <row>
+	<field name="Code">ARM</field>
+	<field name="Name">Armenia</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">29800.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">3520000</field>
+	<field name="LifeExpectancy">66.4</field>
+	<field name="GNP">1813.00</field>
+	<field name="GNPOld">1627.00</field>
+	<field name="LocalName">Hajastan</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Robert Kotšarjan</field>
+	<field name="Capital">126</field>
+	<field name="Code2">AM</field>
+  </row>
+
+  <row>
+	<field name="Code">ASM</field>
+	<field name="Name">American Samoa</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">199.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">68000</field>
+	<field name="LifeExpectancy">75.1</field>
+	<field name="GNP">334.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Amerika Samoa</field>
+	<field name="GovernmentForm">US Territory</field>
+	<field name="HeadOfState">George W. Bush</field>
+	<field name="Capital">54</field>
+	<field name="Code2">AS</field>
+  </row>
+
+  <row>
+	<field name="Code">ATA</field>
+	<field name="Name">Antarctica</field>
+	<field name="Continent">Antarctica</field>
+	<field name="Region">Antarctica</field>
+	<field name="SurfaceArea">13120000.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">0</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">–</field>
+	<field name="GovernmentForm">Co-administrated</field>
+	<field name="HeadOfState"></field>
+	<field name="Capital" xsi:nil="true" />
+	<field name="Code2">AQ</field>
+  </row>
+
+  <row>
+	<field name="Code">ATF</field>
+	<field name="Name">French Southern territories</field>
+	<field name="Continent">Antarctica</field>
+	<field name="Region">Antarctica</field>
+	<field name="SurfaceArea">7780.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">0</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Terres australes françaises</field>
+	<field name="GovernmentForm">Nonmetropolitan Territory of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital" xsi:nil="true" />
+	<field name="Code2">TF</field>
+  </row>
+
+  <row>
+	<field name="Code">ATG</field>
+	<field name="Name">Antigua and Barbuda</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">442.00</field>
+	<field name="IndepYear">1981</field>
+	<field name="Population">68000</field>
+	<field name="LifeExpectancy">70.5</field>
+	<field name="GNP">612.00</field>
+	<field name="GNPOld">584.00</field>
+	<field name="LocalName">Antigua and Barbuda</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">63</field>
+	<field name="Code2">AG</field>
+  </row>
+
+  <row>
+	<field name="Code">AUS</field>
+	<field name="Name">Australia</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Australia and New Zealand</field>
+	<field name="SurfaceArea">7741220.00</field>
+	<field name="IndepYear">1901</field>
+	<field name="Population">18886000</field>
+	<field name="LifeExpectancy">79.8</field>
+	<field name="GNP">351182.00</field>
+	<field name="GNPOld">392911.00</field>
+	<field name="LocalName">Australia</field>
+	<field name="GovernmentForm">Constitutional Monarchy, Federation</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">135</field>
+	<field name="Code2">AU</field>
+  </row>
+
+  <row>
+	<field name="Code">AUT</field>
+	<field name="Name">Austria</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Western Europe</field>
+	<field name="SurfaceArea">83859.00</field>
+	<field name="IndepYear">1918</field>
+	<field name="Population">8091800</field>
+	<field name="LifeExpectancy">77.7</field>
+	<field name="GNP">211860.00</field>
+	<field name="GNPOld">206025.00</field>
+	<field name="LocalName">Österreich</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Thomas Klestil</field>
+	<field name="Capital">1523</field>
+	<field name="Code2">AT</field>
+  </row>
+
+  <row>
+	<field name="Code">AZE</field>
+	<field name="Name">Azerbaijan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">86600.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">7734000</field>
+	<field name="LifeExpectancy">62.9</field>
+	<field name="GNP">4127.00</field>
+	<field name="GNPOld">4100.00</field>
+	<field name="LocalName">Azärbaycan</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Heydär Äliyev</field>
+	<field name="Capital">144</field>
+	<field name="Code2">AZ</field>
+  </row>
+
+  <row>
+	<field name="Code">BDI</field>
+	<field name="Name">Burundi</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">27834.00</field>
+	<field name="IndepYear">1962</field>
+	<field name="Population">6695000</field>
+	<field name="LifeExpectancy">46.2</field>
+	<field name="GNP">903.00</field>
+	<field name="GNPOld">982.00</field>
+	<field name="LocalName">Burundi/Uburundi</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Pierre Buyoya</field>
+	<field name="Capital">552</field>
+	<field name="Code2">BI</field>
+  </row>
+
+  <row>
+	<field name="Code">BEL</field>
+	<field name="Name">Belgium</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Western Europe</field>
+	<field name="SurfaceArea">30518.00</field>
+	<field name="IndepYear">1830</field>
+	<field name="Population">10239000</field>
+	<field name="LifeExpectancy">77.8</field>
+	<field name="GNP">249704.00</field>
+	<field name="GNPOld">243948.00</field>
+	<field name="LocalName">België/Belgique</field>
+	<field name="GovernmentForm">Constitutional Monarchy, Federation</field>
+	<field name="HeadOfState">Albert II</field>
+	<field name="Capital">179</field>
+	<field name="Code2">BE</field>
+  </row>
+
+  <row>
+	<field name="Code">BEN</field>
+	<field name="Name">Benin</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">112622.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">6097000</field>
+	<field name="LifeExpectancy">50.2</field>
+	<field name="GNP">2357.00</field>
+	<field name="GNPOld">2141.00</field>
+	<field name="LocalName">Bénin</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Mathieu Kérékou</field>
+	<field name="Capital">187</field>
+	<field name="Code2">BJ</field>
+  </row>
+
+  <row>
+	<field name="Code">BFA</field>
+	<field name="Name">Burkina Faso</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">274000.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">11937000</field>
+	<field name="LifeExpectancy">46.7</field>
+	<field name="GNP">2425.00</field>
+	<field name="GNPOld">2201.00</field>
+	<field name="LocalName">Burkina Faso</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Blaise Compaoré</field>
+	<field name="Capital">549</field>
+	<field name="Code2">BF</field>
+  </row>
+
+  <row>
+	<field name="Code">BGD</field>
+	<field name="Name">Bangladesh</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">143998.00</field>
+	<field name="IndepYear">1971</field>
+	<field name="Population">129155000</field>
+	<field name="LifeExpectancy">60.2</field>
+	<field name="GNP">32852.00</field>
+	<field name="GNPOld">31966.00</field>
+	<field name="LocalName">Bangladesh</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Shahabuddin Ahmad</field>
+	<field name="Capital">150</field>
+	<field name="Code2">BD</field>
+  </row>
+
+  <row>
+	<field name="Code">BGR</field>
+	<field name="Name">Bulgaria</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">110994.00</field>
+	<field name="IndepYear">1908</field>
+	<field name="Population">8190900</field>
+	<field name="LifeExpectancy">70.9</field>
+	<field name="GNP">12178.00</field>
+	<field name="GNPOld">10169.00</field>
+	<field name="LocalName">Balgarija</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Petar Stojanov</field>
+	<field name="Capital">539</field>
+	<field name="Code2">BG</field>
+  </row>
+
+  <row>
+	<field name="Code">BHR</field>
+	<field name="Name">Bahrain</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">694.00</field>
+	<field name="IndepYear">1971</field>
+	<field name="Population">617000</field>
+	<field name="LifeExpectancy">73.0</field>
+	<field name="GNP">6366.00</field>
+	<field name="GNPOld">6097.00</field>
+	<field name="LocalName">Al-Bahrayn</field>
+	<field name="GovernmentForm">Monarchy (Emirate)</field>
+	<field name="HeadOfState">Hamad ibn Isa al-Khalifa</field>
+	<field name="Capital">149</field>
+	<field name="Code2">BH</field>
+  </row>
+
+  <row>
+	<field name="Code">BHS</field>
+	<field name="Name">Bahamas</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">13878.00</field>
+	<field name="IndepYear">1973</field>
+	<field name="Population">307000</field>
+	<field name="LifeExpectancy">71.1</field>
+	<field name="GNP">3527.00</field>
+	<field name="GNPOld">3347.00</field>
+	<field name="LocalName">The Bahamas</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">148</field>
+	<field name="Code2">BS</field>
+  </row>
+
+  <row>
+	<field name="Code">BIH</field>
+	<field name="Name">Bosnia and Herzegovina</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">51197.00</field>
+	<field name="IndepYear">1992</field>
+	<field name="Population">3972000</field>
+	<field name="LifeExpectancy">71.5</field>
+	<field name="GNP">2841.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Bosna i Hercegovina</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Ante Jelavic</field>
+	<field name="Capital">201</field>
+	<field name="Code2">BA</field>
+  </row>
+
+  <row>
+	<field name="Code">BLR</field>
+	<field name="Name">Belarus</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">207600.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">10236000</field>
+	<field name="LifeExpectancy">68.0</field>
+	<field name="GNP">13714.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Belarus</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Aljaksandr Lukašenka</field>
+	<field name="Capital">3520</field>
+	<field name="Code2">BY</field>
+  </row>
+
+  <row>
+	<field name="Code">BLZ</field>
+	<field name="Name">Belize</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Central America</field>
+	<field name="SurfaceArea">22696.00</field>
+	<field name="IndepYear">1981</field>
+	<field name="Population">241000</field>
+	<field name="LifeExpectancy">70.9</field>
+	<field name="GNP">630.00</field>
+	<field name="GNPOld">616.00</field>
+	<field name="LocalName">Belize</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">185</field>
+	<field name="Code2">BZ</field>
+  </row>
+
+  <row>
+	<field name="Code">BMU</field>
+	<field name="Name">Bermuda</field>
+	<field name="Continent">North America</field>
+	<field name="Region">North America</field>
+	<field name="SurfaceArea">53.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">65000</field>
+	<field name="LifeExpectancy">76.9</field>
+	<field name="GNP">2328.00</field>
+	<field name="GNPOld">2190.00</field>
+	<field name="LocalName">Bermuda</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">191</field>
+	<field name="Code2">BM</field>
+  </row>
+
+  <row>
+	<field name="Code">BOL</field>
+	<field name="Name">Bolivia</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">1098581.00</field>
+	<field name="IndepYear">1825</field>
+	<field name="Population">8329000</field>
+	<field name="LifeExpectancy">63.7</field>
+	<field name="GNP">8571.00</field>
+	<field name="GNPOld">7967.00</field>
+	<field name="LocalName">Bolivia</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Hugo Bánzer Suárez</field>
+	<field name="Capital">194</field>
+	<field name="Code2">BO</field>
+  </row>
+
+  <row>
+	<field name="Code">BRA</field>
+	<field name="Name">Brazil</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">8547403.00</field>
+	<field name="IndepYear">1822</field>
+	<field name="Population">170115000</field>
+	<field name="LifeExpectancy">62.9</field>
+	<field name="GNP">776739.00</field>
+	<field name="GNPOld">804108.00</field>
+	<field name="LocalName">Brasil</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Fernando Henrique Cardoso</field>
+	<field name="Capital">211</field>
+	<field name="Code2">BR</field>
+  </row>
+
+  <row>
+	<field name="Code">BRB</field>
+	<field name="Name">Barbados</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">430.00</field>
+	<field name="IndepYear">1966</field>
+	<field name="Population">270000</field>
+	<field name="LifeExpectancy">73.0</field>
+	<field name="GNP">2223.00</field>
+	<field name="GNPOld">2186.00</field>
+	<field name="LocalName">Barbados</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">174</field>
+	<field name="Code2">BB</field>
+  </row>
+
+  <row>
+	<field name="Code">BRN</field>
+	<field name="Name">Brunei</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">5765.00</field>
+	<field name="IndepYear">1984</field>
+	<field name="Population">328000</field>
+	<field name="LifeExpectancy">73.6</field>
+	<field name="GNP">11705.00</field>
+	<field name="GNPOld">12460.00</field>
+	<field name="LocalName">Brunei Darussalam</field>
+	<field name="GovernmentForm">Monarchy (Sultanate)</field>
+	<field name="HeadOfState">Haji Hassan al-Bolkiah</field>
+	<field name="Capital">538</field>
+	<field name="Code2">BN</field>
+  </row>
+
+  <row>
+	<field name="Code">BTN</field>
+	<field name="Name">Bhutan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">47000.00</field>
+	<field name="IndepYear">1910</field>
+	<field name="Population">2124000</field>
+	<field name="LifeExpectancy">52.4</field>
+	<field name="GNP">372.00</field>
+	<field name="GNPOld">383.00</field>
+	<field name="LocalName">Druk-Yul</field>
+	<field name="GovernmentForm">Monarchy</field>
+	<field name="HeadOfState">Jigme Singye Wangchuk</field>
+	<field name="Capital">192</field>
+	<field name="Code2">BT</field>
+  </row>
+
+  <row>
+	<field name="Code">BVT</field>
+	<field name="Name">Bouvet Island</field>
+	<field name="Continent">Antarctica</field>
+	<field name="Region">Antarctica</field>
+	<field name="SurfaceArea">59.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">0</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Bouvetøya</field>
+	<field name="GovernmentForm">Dependent Territory of Norway</field>
+	<field name="HeadOfState">Harald V</field>
+	<field name="Capital" xsi:nil="true" />
+	<field name="Code2">BV</field>
+  </row>
+
+  <row>
+	<field name="Code">BWA</field>
+	<field name="Name">Botswana</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Southern Africa</field>
+	<field name="SurfaceArea">581730.00</field>
+	<field name="IndepYear">1966</field>
+	<field name="Population">1622000</field>
+	<field name="LifeExpectancy">39.3</field>
+	<field name="GNP">4834.00</field>
+	<field name="GNPOld">4935.00</field>
+	<field name="LocalName">Botswana</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Festus G. Mogae</field>
+	<field name="Capital">204</field>
+	<field name="Code2">BW</field>
+  </row>
+
+  <row>
+	<field name="Code">CAF</field>
+	<field name="Name">Central African Republic</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Central Africa</field>
+	<field name="SurfaceArea">622984.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">3615000</field>
+	<field name="LifeExpectancy">44.0</field>
+	<field name="GNP">1054.00</field>
+	<field name="GNPOld">993.00</field>
+	<field name="LocalName">Centrafrique/Bê-Afrîka</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ange-Félix Patassé</field>
+	<field name="Capital">1889</field>
+	<field name="Code2">CF</field>
+  </row>
+
+  <row>
+	<field name="Code">CAN</field>
+	<field name="Name">Canada</field>
+	<field name="Continent">North America</field>
+	<field name="Region">North America</field>
+	<field name="SurfaceArea">9970610.00</field>
+	<field name="IndepYear">1867</field>
+	<field name="Population">31147000</field>
+	<field name="LifeExpectancy">79.4</field>
+	<field name="GNP">598862.00</field>
+	<field name="GNPOld">625626.00</field>
+	<field name="LocalName">Canada</field>
+	<field name="GovernmentForm">Constitutional Monarchy, Federation</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">1822</field>
+	<field name="Code2">CA</field>
+  </row>
+
+  <row>
+	<field name="Code">CCK</field>
+	<field name="Name">Cocos (Keeling) Islands</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Australia and New Zealand</field>
+	<field name="SurfaceArea">14.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">600</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Cocos (Keeling) Islands</field>
+	<field name="GovernmentForm">Territory of Australia</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">2317</field>
+	<field name="Code2">CC</field>
+  </row>
+
+  <row>
+	<field name="Code">CHE</field>
+	<field name="Name">Switzerland</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Western Europe</field>
+	<field name="SurfaceArea">41284.00</field>
+	<field name="IndepYear">1499</field>
+	<field name="Population">7160400</field>
+	<field name="LifeExpectancy">79.6</field>
+	<field name="GNP">264478.00</field>
+	<field name="GNPOld">256092.00</field>
+	<field name="LocalName">Schweiz/Suisse/Svizzera/Svizra</field>
+	<field name="GovernmentForm">Federation</field>
+	<field name="HeadOfState">Adolf Ogi</field>
+	<field name="Capital">3248</field>
+	<field name="Code2">CH</field>
+  </row>
+
+  <row>
+	<field name="Code">CHL</field>
+	<field name="Name">Chile</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">756626.00</field>
+	<field name="IndepYear">1810</field>
+	<field name="Population">15211000</field>
+	<field name="LifeExpectancy">75.7</field>
+	<field name="GNP">72949.00</field>
+	<field name="GNPOld">75780.00</field>
+	<field name="LocalName">Chile</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ricardo Lagos Escobar</field>
+	<field name="Capital">554</field>
+	<field name="Code2">CL</field>
+  </row>
+
+  <row>
+	<field name="Code">CHN</field>
+	<field name="Name">China</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Eastern Asia</field>
+	<field name="SurfaceArea">9572900.00</field>
+	<field name="IndepYear">-1523</field>
+	<field name="Population">1277558000</field>
+	<field name="LifeExpectancy">71.4</field>
+	<field name="GNP">982268.00</field>
+	<field name="GNPOld">917719.00</field>
+	<field name="LocalName">Zhongquo</field>
+	<field name="GovernmentForm">People'sRepublic</field>
+	<field name="HeadOfState">Jiang Zemin</field>
+	<field name="Capital">1891</field>
+	<field name="Code2">CN</field>
+  </row>
+
+  <row>
+	<field name="Code">CIV</field>
+	<field name="Name">Côte d’Ivoire</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">322463.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">14786000</field>
+	<field name="LifeExpectancy">45.2</field>
+	<field name="GNP">11345.00</field>
+	<field name="GNPOld">10285.00</field>
+	<field name="LocalName">Côte d’Ivoire</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Laurent Gbagbo</field>
+	<field name="Capital">2814</field>
+	<field name="Code2">CI</field>
+  </row>
+
+  <row>
+	<field name="Code">CMR</field>
+	<field name="Name">Cameroon</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Central Africa</field>
+	<field name="SurfaceArea">475442.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">15085000</field>
+	<field name="LifeExpectancy">54.8</field>
+	<field name="GNP">9174.00</field>
+	<field name="GNPOld">8596.00</field>
+	<field name="LocalName">Cameroun/Cameroon</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Paul Biya</field>
+	<field name="Capital">1804</field>
+	<field name="Code2">CM</field>
+  </row>
+
+  <row>
+	<field name="Code">COD</field>
+	<field name="Name">Congo, The Democratic Republic of the</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Central Africa</field>
+	<field name="SurfaceArea">2344858.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">51654000</field>
+	<field name="LifeExpectancy">48.8</field>
+	<field name="GNP">6964.00</field>
+	<field name="GNPOld">2474.00</field>
+	<field name="LocalName">République Démocratique du Congo</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Joseph Kabila</field>
+	<field name="Capital">2298</field>
+	<field name="Code2">CD</field>
+  </row>
+
+  <row>
+	<field name="Code">COG</field>
+	<field name="Name">Congo</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Central Africa</field>
+	<field name="SurfaceArea">342000.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">2943000</field>
+	<field name="LifeExpectancy">47.4</field>
+	<field name="GNP">2108.00</field>
+	<field name="GNPOld">2287.00</field>
+	<field name="LocalName">Congo</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Denis Sassou-Nguesso</field>
+	<field name="Capital">2296</field>
+	<field name="Code2">CG</field>
+  </row>
+
+  <row>
+	<field name="Code">COK</field>
+	<field name="Name">Cook Islands</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">236.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">20000</field>
+	<field name="LifeExpectancy">71.1</field>
+	<field name="GNP">100.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">The Cook Islands</field>
+	<field name="GovernmentForm">Nonmetropolitan Territory of New Zealand</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">583</field>
+	<field name="Code2">CK</field>
+  </row>
+
+  <row>
+	<field name="Code">COL</field>
+	<field name="Name">Colombia</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">1138914.00</field>
+	<field name="IndepYear">1810</field>
+	<field name="Population">42321000</field>
+	<field name="LifeExpectancy">70.3</field>
+	<field name="GNP">102896.00</field>
+	<field name="GNPOld">105116.00</field>
+	<field name="LocalName">Colombia</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Andrés Pastrana Arango</field>
+	<field name="Capital">2257</field>
+	<field name="Code2">CO</field>
+  </row>
+
+  <row>
+	<field name="Code">COM</field>
+	<field name="Name">Comoros</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">1862.00</field>
+	<field name="IndepYear">1975</field>
+	<field name="Population">578000</field>
+	<field name="LifeExpectancy">60.0</field>
+	<field name="GNP">4401.00</field>
+	<field name="GNPOld">4361.00</field>
+	<field name="LocalName">Komori/Comores</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Azali Assoumani</field>
+	<field name="Capital">2295</field>
+	<field name="Code2">KM</field>
+  </row>
+
+  <row>
+	<field name="Code">CPV</field>
+	<field name="Name">Cape Verde</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">4033.00</field>
+	<field name="IndepYear">1975</field>
+	<field name="Population">428000</field>
+	<field name="LifeExpectancy">68.9</field>
+	<field name="GNP">435.00</field>
+	<field name="GNPOld">420.00</field>
+	<field name="LocalName">Cabo Verde</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">António Mascarenhas Monteiro</field>
+	<field name="Capital">1859</field>
+	<field name="Code2">CV</field>
+  </row>
+
+  <row>
+	<field name="Code">CRI</field>
+	<field name="Name">Costa Rica</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Central America</field>
+	<field name="SurfaceArea">51100.00</field>
+	<field name="IndepYear">1821</field>
+	<field name="Population">4023000</field>
+	<field name="LifeExpectancy">75.8</field>
+	<field name="GNP">10226.00</field>
+	<field name="GNPOld">9757.00</field>
+	<field name="LocalName">Costa Rica</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Miguel Ángel Rodríguez Echeverría</field>
+	<field name="Capital">584</field>
+	<field name="Code2">CR</field>
+  </row>
+
+  <row>
+	<field name="Code">CUB</field>
+	<field name="Name">Cuba</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">110861.00</field>
+	<field name="IndepYear">1902</field>
+	<field name="Population">11201000</field>
+	<field name="LifeExpectancy">76.2</field>
+	<field name="GNP">17843.00</field>
+	<field name="GNPOld">18862.00</field>
+	<field name="LocalName">Cuba</field>
+	<field name="GovernmentForm">Socialistic Republic</field>
+	<field name="HeadOfState">Fidel Castro Ruz</field>
+	<field name="Capital">2413</field>
+	<field name="Code2">CU</field>
+  </row>
+
+  <row>
+	<field name="Code">CXR</field>
+	<field name="Name">Christmas Island</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Australia and New Zealand</field>
+	<field name="SurfaceArea">135.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">2500</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Christmas Island</field>
+	<field name="GovernmentForm">Territory of Australia</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">1791</field>
+	<field name="Code2">CX</field>
+  </row>
+
+  <row>
+	<field name="Code">CYM</field>
+	<field name="Name">Cayman Islands</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">264.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">38000</field>
+	<field name="LifeExpectancy">78.9</field>
+	<field name="GNP">1263.00</field>
+	<field name="GNPOld">1186.00</field>
+	<field name="LocalName">Cayman Islands</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">553</field>
+	<field name="Code2">KY</field>
+  </row>
+
+  <row>
+	<field name="Code">CYP</field>
+	<field name="Name">Cyprus</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">9251.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">754700</field>
+	<field name="LifeExpectancy">76.7</field>
+	<field name="GNP">9333.00</field>
+	<field name="GNPOld">8246.00</field>
+	<field name="LocalName">Kýpros/Kibris</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Glafkos Klerides</field>
+	<field name="Capital">2430</field>
+	<field name="Code2">CY</field>
+  </row>
+
+  <row>
+	<field name="Code">CZE</field>
+	<field name="Name">Czech Republic</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">78866.00</field>
+	<field name="IndepYear">1993</field>
+	<field name="Population">10278100</field>
+	<field name="LifeExpectancy">74.5</field>
+	<field name="GNP">55017.00</field>
+	<field name="GNPOld">52037.00</field>
+	<field name="LocalName">¸esko</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Václav Havel</field>
+	<field name="Capital">3339</field>
+	<field name="Code2">CZ</field>
+  </row>
+
+  <row>
+	<field name="Code">DEU</field>
+	<field name="Name">Germany</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Western Europe</field>
+	<field name="SurfaceArea">357022.00</field>
+	<field name="IndepYear">1955</field>
+	<field name="Population">82164700</field>
+	<field name="LifeExpectancy">77.4</field>
+	<field name="GNP">2133367.00</field>
+	<field name="GNPOld">2102826.00</field>
+	<field name="LocalName">Deutschland</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Johannes Rau</field>
+	<field name="Capital">3068</field>
+	<field name="Code2">DE</field>
+  </row>
+
+  <row>
+	<field name="Code">DJI</field>
+	<field name="Name">Djibouti</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">23200.00</field>
+	<field name="IndepYear">1977</field>
+	<field name="Population">638000</field>
+	<field name="LifeExpectancy">50.8</field>
+	<field name="GNP">382.00</field>
+	<field name="GNPOld">373.00</field>
+	<field name="LocalName">Djibouti/Jibuti</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ismail Omar Guelleh</field>
+	<field name="Capital">585</field>
+	<field name="Code2">DJ</field>
+  </row>
+
+  <row>
+	<field name="Code">DMA</field>
+	<field name="Name">Dominica</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">751.00</field>
+	<field name="IndepYear">1978</field>
+	<field name="Population">71000</field>
+	<field name="LifeExpectancy">73.4</field>
+	<field name="GNP">256.00</field>
+	<field name="GNPOld">243.00</field>
+	<field name="LocalName">Dominica</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Vernon Shaw</field>
+	<field name="Capital">586</field>
+	<field name="Code2">DM</field>
+  </row>
+
+  <row>
+	<field name="Code">DNK</field>
+	<field name="Name">Denmark</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Nordic Countries</field>
+	<field name="SurfaceArea">43094.00</field>
+	<field name="IndepYear">800</field>
+	<field name="Population">5330000</field>
+	<field name="LifeExpectancy">76.5</field>
+	<field name="GNP">174099.00</field>
+	<field name="GNPOld">169264.00</field>
+	<field name="LocalName">Danmark</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Margrethe II</field>
+	<field name="Capital">3315</field>
+	<field name="Code2">DK</field>
+  </row>
+
+  <row>
+	<field name="Code">DOM</field>
+	<field name="Name">Dominican Republic</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">48511.00</field>
+	<field name="IndepYear">1844</field>
+	<field name="Population">8495000</field>
+	<field name="LifeExpectancy">73.2</field>
+	<field name="GNP">15846.00</field>
+	<field name="GNPOld">15076.00</field>
+	<field name="LocalName">República Dominicana</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Hipólito Mejía Domínguez</field>
+	<field name="Capital">587</field>
+	<field name="Code2">DO</field>
+  </row>
+
+  <row>
+	<field name="Code">DZA</field>
+	<field name="Name">Algeria</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Northern Africa</field>
+	<field name="SurfaceArea">2381741.00</field>
+	<field name="IndepYear">1962</field>
+	<field name="Population">31471000</field>
+	<field name="LifeExpectancy">69.7</field>
+	<field name="GNP">49982.00</field>
+	<field name="GNPOld">46966.00</field>
+	<field name="LocalName">Al-Jaza’ir/Algérie</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Abdelaziz Bouteflika</field>
+	<field name="Capital">35</field>
+	<field name="Code2">DZ</field>
+  </row>
+
+  <row>
+	<field name="Code">ECU</field>
+	<field name="Name">Ecuador</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">283561.00</field>
+	<field name="IndepYear">1822</field>
+	<field name="Population">12646000</field>
+	<field name="LifeExpectancy">71.1</field>
+	<field name="GNP">19770.00</field>
+	<field name="GNPOld">19769.00</field>
+	<field name="LocalName">Ecuador</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Gustavo Noboa Bejarano</field>
+	<field name="Capital">594</field>
+	<field name="Code2">EC</field>
+  </row>
+
+  <row>
+	<field name="Code">EGY</field>
+	<field name="Name">Egypt</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Northern Africa</field>
+	<field name="SurfaceArea">1001449.00</field>
+	<field name="IndepYear">1922</field>
+	<field name="Population">68470000</field>
+	<field name="LifeExpectancy">63.3</field>
+	<field name="GNP">82710.00</field>
+	<field name="GNPOld">75617.00</field>
+	<field name="LocalName">Misr</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Hosni Mubarak</field>
+	<field name="Capital">608</field>
+	<field name="Code2">EG</field>
+  </row>
+
+  <row>
+	<field name="Code">ERI</field>
+	<field name="Name">Eritrea</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">117600.00</field>
+	<field name="IndepYear">1993</field>
+	<field name="Population">3850000</field>
+	<field name="LifeExpectancy">55.8</field>
+	<field name="GNP">650.00</field>
+	<field name="GNPOld">755.00</field>
+	<field name="LocalName">Ertra</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Isayas Afewerki [Isaias Afwerki]</field>
+	<field name="Capital">652</field>
+	<field name="Code2">ER</field>
+  </row>
+
+  <row>
+	<field name="Code">ESH</field>
+	<field name="Name">Western Sahara</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Northern Africa</field>
+	<field name="SurfaceArea">266000.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">293000</field>
+	<field name="LifeExpectancy">49.8</field>
+	<field name="GNP">60.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">As-Sahrawiya</field>
+	<field name="GovernmentForm">Occupied by Marocco</field>
+	<field name="HeadOfState">Mohammed Abdel Aziz</field>
+	<field name="Capital">2453</field>
+	<field name="Code2">EH</field>
+  </row>
+
+  <row>
+	<field name="Code">ESP</field>
+	<field name="Name">Spain</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">505992.00</field>
+	<field name="IndepYear">1492</field>
+	<field name="Population">39441700</field>
+	<field name="LifeExpectancy">78.8</field>
+	<field name="GNP">553233.00</field>
+	<field name="GNPOld">532031.00</field>
+	<field name="LocalName">España</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Juan Carlos I</field>
+	<field name="Capital">653</field>
+	<field name="Code2">ES</field>
+  </row>
+
+  <row>
+	<field name="Code">EST</field>
+	<field name="Name">Estonia</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Baltic Countries</field>
+	<field name="SurfaceArea">45227.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">1439200</field>
+	<field name="LifeExpectancy">69.5</field>
+	<field name="GNP">5328.00</field>
+	<field name="GNPOld">3371.00</field>
+	<field name="LocalName">Eesti</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Lennart Meri</field>
+	<field name="Capital">3791</field>
+	<field name="Code2">EE</field>
+  </row>
+
+  <row>
+	<field name="Code">ETH</field>
+	<field name="Name">Ethiopia</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">1104300.00</field>
+	<field name="IndepYear">-1000</field>
+	<field name="Population">62565000</field>
+	<field name="LifeExpectancy">45.2</field>
+	<field name="GNP">6353.00</field>
+	<field name="GNPOld">6180.00</field>
+	<field name="LocalName">YeItyop´iya</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Negasso Gidada</field>
+	<field name="Capital">756</field>
+	<field name="Code2">ET</field>
+  </row>
+
+  <row>
+	<field name="Code">FIN</field>
+	<field name="Name">Finland</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Nordic Countries</field>
+	<field name="SurfaceArea">338145.00</field>
+	<field name="IndepYear">1917</field>
+	<field name="Population">5171300</field>
+	<field name="LifeExpectancy">77.4</field>
+	<field name="GNP">121914.00</field>
+	<field name="GNPOld">119833.00</field>
+	<field name="LocalName">Suomi</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Tarja Halonen</field>
+	<field name="Capital">3236</field>
+	<field name="Code2">FI</field>
+  </row>
+
+  <row>
+	<field name="Code">FJI</field>
+	<field name="Name">Fiji Islands</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Melanesia</field>
+	<field name="SurfaceArea">18274.00</field>
+	<field name="IndepYear">1970</field>
+	<field name="Population">817000</field>
+	<field name="LifeExpectancy">67.9</field>
+	<field name="GNP">1536.00</field>
+	<field name="GNPOld">2149.00</field>
+	<field name="LocalName">Fiji Islands</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Josefa Iloilo</field>
+	<field name="Capital">764</field>
+	<field name="Code2">FJ</field>
+  </row>
+
+  <row>
+	<field name="Code">FLK</field>
+	<field name="Name">Falkland Islands</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">12173.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">2000</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Falkland Islands</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">763</field>
+	<field name="Code2">FK</field>
+  </row>
+
+  <row>
+	<field name="Code">FRA</field>
+	<field name="Name">France</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Western Europe</field>
+	<field name="SurfaceArea">551500.00</field>
+	<field name="IndepYear">843</field>
+	<field name="Population">59225700</field>
+	<field name="LifeExpectancy">78.8</field>
+	<field name="GNP">1424285.00</field>
+	<field name="GNPOld">1392448.00</field>
+	<field name="LocalName">France</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">2974</field>
+	<field name="Code2">FR</field>
+  </row>
+
+  <row>
+	<field name="Code">FRO</field>
+	<field name="Name">Faroe Islands</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Nordic Countries</field>
+	<field name="SurfaceArea">1399.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">43000</field>
+	<field name="LifeExpectancy">78.4</field>
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Føroyar</field>
+	<field name="GovernmentForm">Part of Denmark</field>
+	<field name="HeadOfState">Margrethe II</field>
+	<field name="Capital">901</field>
+	<field name="Code2">FO</field>
+  </row>
+
+  <row>
+	<field name="Code">FSM</field>
+	<field name="Name">Micronesia, Federated States of</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Micronesia</field>
+	<field name="SurfaceArea">702.00</field>
+	<field name="IndepYear">1990</field>
+	<field name="Population">119000</field>
+	<field name="LifeExpectancy">68.6</field>
+	<field name="GNP">212.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Micronesia</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Leo A. Falcam</field>
+	<field name="Capital">2689</field>
+	<field name="Code2">FM</field>
+  </row>
+
+  <row>
+	<field name="Code">GAB</field>
+	<field name="Name">Gabon</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Central Africa</field>
+	<field name="SurfaceArea">267668.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">1226000</field>
+	<field name="LifeExpectancy">50.1</field>
+	<field name="GNP">5493.00</field>
+	<field name="GNPOld">5279.00</field>
+	<field name="LocalName">Le Gabon</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Omar Bongo</field>
+	<field name="Capital">902</field>
+	<field name="Code2">GA</field>
+  </row>
+
+  <row>
+	<field name="Code">GBR</field>
+	<field name="Name">United Kingdom</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">British Islands</field>
+	<field name="SurfaceArea">242900.00</field>
+	<field name="IndepYear">1066</field>
+	<field name="Population">59623400</field>
+	<field name="LifeExpectancy">77.7</field>
+	<field name="GNP">1378330.00</field>
+	<field name="GNPOld">1296830.00</field>
+	<field name="LocalName">United Kingdom</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">456</field>
+	<field name="Code2">GB</field>
+  </row>
+
+  <row>
+	<field name="Code">GEO</field>
+	<field name="Name">Georgia</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">69700.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">4968000</field>
+	<field name="LifeExpectancy">64.5</field>
+	<field name="GNP">6064.00</field>
+	<field name="GNPOld">5924.00</field>
+	<field name="LocalName">Sakartvelo</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Eduard Ševardnadze</field>
+	<field name="Capital">905</field>
+	<field name="Code2">GE</field>
+  </row>
+
+  <row>
+	<field name="Code">GHA</field>
+	<field name="Name">Ghana</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">238533.00</field>
+	<field name="IndepYear">1957</field>
+	<field name="Population">20212000</field>
+	<field name="LifeExpectancy">57.4</field>
+	<field name="GNP">7137.00</field>
+	<field name="GNPOld">6884.00</field>
+	<field name="LocalName">Ghana</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">John Kufuor</field>
+	<field name="Capital">910</field>
+	<field name="Code2">GH</field>
+  </row>
+
+  <row>
+	<field name="Code">GIB</field>
+	<field name="Name">Gibraltar</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">6.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">25000</field>
+	<field name="LifeExpectancy">79.0</field>
+	<field name="GNP">258.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Gibraltar</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">915</field>
+	<field name="Code2">GI</field>
+  </row>
+
+  <row>
+	<field name="Code">GIN</field>
+	<field name="Name">Guinea</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">245857.00</field>
+	<field name="IndepYear">1958</field>
+	<field name="Population">7430000</field>
+	<field name="LifeExpectancy">45.6</field>
+	<field name="GNP">2352.00</field>
+	<field name="GNPOld">2383.00</field>
+	<field name="LocalName">Guinée</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Lansana Conté</field>
+	<field name="Capital">926</field>
+	<field name="Code2">GN</field>
+  </row>
+
+  <row>
+	<field name="Code">GLP</field>
+	<field name="Name">Guadeloupe</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">1705.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">456000</field>
+	<field name="LifeExpectancy">77.0</field>
+	<field name="GNP">3501.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Guadeloupe</field>
+	<field name="GovernmentForm">Overseas Department of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">919</field>
+	<field name="Code2">GP</field>
+  </row>
+
+  <row>
+	<field name="Code">GMB</field>
+	<field name="Name">Gambia</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">11295.00</field>
+	<field name="IndepYear">1965</field>
+	<field name="Population">1305000</field>
+	<field name="LifeExpectancy">53.2</field>
+	<field name="GNP">320.00</field>
+	<field name="GNPOld">325.00</field>
+	<field name="LocalName">The Gambia</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Yahya Jammeh</field>
+	<field name="Capital">904</field>
+	<field name="Code2">GM</field>
+  </row>
+
+  <row>
+	<field name="Code">GNB</field>
+	<field name="Name">Guinea-Bissau</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">36125.00</field>
+	<field name="IndepYear">1974</field>
+	<field name="Population">1213000</field>
+	<field name="LifeExpectancy">49.0</field>
+	<field name="GNP">293.00</field>
+	<field name="GNPOld">272.00</field>
+	<field name="LocalName">Guiné-Bissau</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Kumba Ialá</field>
+	<field name="Capital">927</field>
+	<field name="Code2">GW</field>
+  </row>
+
+  <row>
+	<field name="Code">GNQ</field>
+	<field name="Name">Equatorial Guinea</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Central Africa</field>
+	<field name="SurfaceArea">28051.00</field>
+	<field name="IndepYear">1968</field>
+	<field name="Population">453000</field>
+	<field name="LifeExpectancy">53.6</field>
+	<field name="GNP">283.00</field>
+	<field name="GNPOld">542.00</field>
+	<field name="LocalName">Guinea Ecuatorial</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Teodoro Obiang Nguema Mbasogo</field>
+	<field name="Capital">2972</field>
+	<field name="Code2">GQ</field>
+  </row>
+
+  <row>
+	<field name="Code">GRC</field>
+	<field name="Name">Greece</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">131626.00</field>
+	<field name="IndepYear">1830</field>
+	<field name="Population">10545700</field>
+	<field name="LifeExpectancy">78.4</field>
+	<field name="GNP">120724.00</field>
+	<field name="GNPOld">119946.00</field>
+	<field name="LocalName">Elláda</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Kostis Stefanopoulos</field>
+	<field name="Capital">2401</field>
+	<field name="Code2">GR</field>
+  </row>
+
+  <row>
+	<field name="Code">GRD</field>
+	<field name="Name">Grenada</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">344.00</field>
+	<field name="IndepYear">1974</field>
+	<field name="Population">94000</field>
+	<field name="LifeExpectancy">64.5</field>
+	<field name="GNP">318.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Grenada</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">916</field>
+	<field name="Code2">GD</field>
+  </row>
+
+  <row>
+	<field name="Code">GRL</field>
+	<field name="Name">Greenland</field>
+	<field name="Continent">North America</field>
+	<field name="Region">North America</field>
+	<field name="SurfaceArea">2166090.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">56000</field>
+	<field name="LifeExpectancy">68.1</field>
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Kalaallit Nunaat/Grønland</field>
+	<field name="GovernmentForm">Part of Denmark</field>
+	<field name="HeadOfState">Margrethe II</field>
+	<field name="Capital">917</field>
+	<field name="Code2">GL</field>
+  </row>
+
+  <row>
+	<field name="Code">GTM</field>
+	<field name="Name">Guatemala</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Central America</field>
+	<field name="SurfaceArea">108889.00</field>
+	<field name="IndepYear">1821</field>
+	<field name="Population">11385000</field>
+	<field name="LifeExpectancy">66.2</field>
+	<field name="GNP">19008.00</field>
+	<field name="GNPOld">17797.00</field>
+	<field name="LocalName">Guatemala</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Alfonso Portillo Cabrera</field>
+	<field name="Capital">922</field>
+	<field name="Code2">GT</field>
+  </row>
+
+  <row>
+	<field name="Code">GUF</field>
+	<field name="Name">French Guiana</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">90000.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">181000</field>
+	<field name="LifeExpectancy">76.1</field>
+	<field name="GNP">681.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Guyane française</field>
+	<field name="GovernmentForm">Overseas Department of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">3014</field>
+	<field name="Code2">GF</field>
+  </row>
+
+  <row>
+	<field name="Code">GUM</field>
+	<field name="Name">Guam</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Micronesia</field>
+	<field name="SurfaceArea">549.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">168000</field>
+	<field name="LifeExpectancy">77.8</field>
+	<field name="GNP">1197.00</field>
+	<field name="GNPOld">1136.00</field>
+	<field name="LocalName">Guam</field>
+	<field name="GovernmentForm">US Territory</field>
+	<field name="HeadOfState">George W. Bush</field>
+	<field name="Capital">921</field>
+	<field name="Code2">GU</field>
+  </row>
+
+  <row>
+	<field name="Code">GUY</field>
+	<field name="Name">Guyana</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">214969.00</field>
+	<field name="IndepYear">1966</field>
+	<field name="Population">861000</field>
+	<field name="LifeExpectancy">64.0</field>
+	<field name="GNP">722.00</field>
+	<field name="GNPOld">743.00</field>
+	<field name="LocalName">Guyana</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Bharrat Jagdeo</field>
+	<field name="Capital">928</field>
+	<field name="Code2">GY</field>
+  </row>
+
+  <row>
+	<field name="Code">HKG</field>
+	<field name="Name">Hong Kong</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Eastern Asia</field>
+	<field name="SurfaceArea">1075.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">6782000</field>
+	<field name="LifeExpectancy">79.5</field>
+	<field name="GNP">166448.00</field>
+	<field name="GNPOld">173610.00</field>
+	<field name="LocalName">Xianggang/Hong Kong</field>
+	<field name="GovernmentForm">Special Administrative Region of China</field>
+	<field name="HeadOfState">Jiang Zemin</field>
+	<field name="Capital">937</field>
+	<field name="Code2">HK</field>
+  </row>
+
+  <row>
+	<field name="Code">HMD</field>
+	<field name="Name">Heard Island and McDonald Islands</field>
+	<field name="Continent">Antarctica</field>
+	<field name="Region">Antarctica</field>
+	<field name="SurfaceArea">359.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">0</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Heard and McDonald Islands</field>
+	<field name="GovernmentForm">Territory of Australia</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital" xsi:nil="true" />
+	<field name="Code2">HM</field>
+  </row>
+
+  <row>
+	<field name="Code">HND</field>
+	<field name="Name">Honduras</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Central America</field>
+	<field name="SurfaceArea">112088.00</field>
+	<field name="IndepYear">1838</field>
+	<field name="Population">6485000</field>
+	<field name="LifeExpectancy">69.9</field>
+	<field name="GNP">5333.00</field>
+	<field name="GNPOld">4697.00</field>
+	<field name="LocalName">Honduras</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Carlos Roberto Flores Facussé</field>
+	<field name="Capital">933</field>
+	<field name="Code2">HN</field>
+  </row>
+
+  <row>
+	<field name="Code">HRV</field>
+	<field name="Name">Croatia</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">56538.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">4473000</field>
+	<field name="LifeExpectancy">73.7</field>
+	<field name="GNP">20208.00</field>
+	<field name="GNPOld">19300.00</field>
+	<field name="LocalName">Hrvatska</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Štipe Mesic</field>
+	<field name="Capital">2409</field>
+	<field name="Code2">HR</field>
+  </row>
+
+  <row>
+	<field name="Code">HTI</field>
+	<field name="Name">Haiti</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">27750.00</field>
+	<field name="IndepYear">1804</field>
+	<field name="Population">8222000</field>
+	<field name="LifeExpectancy">49.2</field>
+	<field name="GNP">3459.00</field>
+	<field name="GNPOld">3107.00</field>
+	<field name="LocalName">Haïti/Dayti</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Jean-Bertrand Aristide</field>
+	<field name="Capital">929</field>
+	<field name="Code2">HT</field>
+  </row>
+
+  <row>
+	<field name="Code">HUN</field>
+	<field name="Name">Hungary</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">93030.00</field>
+	<field name="IndepYear">1918</field>
+	<field name="Population">10043200</field>
+	<field name="LifeExpectancy">71.4</field>
+	<field name="GNP">48267.00</field>
+	<field name="GNPOld">45914.00</field>
+	<field name="LocalName">Magyarország</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ferenc Mádl</field>
+	<field name="Capital">3483</field>
+	<field name="Code2">HU</field>
+  </row>
+
+  <row>
+	<field name="Code">IDN</field>
+	<field name="Name">Indonesia</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">1904569.00</field>
+	<field name="IndepYear">1945</field>
+	<field name="Population">212107000</field>
+	<field name="LifeExpectancy">68.0</field>
+	<field name="GNP">84982.00</field>
+	<field name="GNPOld">215002.00</field>
+	<field name="LocalName">Indonesia</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Abdurrahman Wahid</field>
+	<field name="Capital">939</field>
+	<field name="Code2">ID</field>
+  </row>
+
+  <row>
+	<field name="Code">IND</field>
+	<field name="Name">India</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">3287263.00</field>
+	<field name="IndepYear">1947</field>
+	<field name="Population">1013662000</field>
+	<field name="LifeExpectancy">62.5</field>
+	<field name="GNP">447114.00</field>
+	<field name="GNPOld">430572.00</field>
+	<field name="LocalName">Bharat/India</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Kocheril Raman Narayanan</field>
+	<field name="Capital">1109</field>
+	<field name="Code2">IN</field>
+  </row>
+
+  <row>
+	<field name="Code">IOT</field>
+	<field name="Name">British Indian Ocean Territory</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">78.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">0</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">British Indian Ocean Territory</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital" xsi:nil="true" />
+	<field name="Code2">IO</field>
+  </row>
+
+  <row>
+	<field name="Code">IRL</field>
+	<field name="Name">Ireland</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">British Islands</field>
+	<field name="SurfaceArea">70273.00</field>
+	<field name="IndepYear">1921</field>
+	<field name="Population">3775100</field>
+	<field name="LifeExpectancy">76.8</field>
+	<field name="GNP">75921.00</field>
+	<field name="GNPOld">73132.00</field>
+	<field name="LocalName">Ireland/Éire</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Mary McAleese</field>
+	<field name="Capital">1447</field>
+	<field name="Code2">IE</field>
+  </row>
+
+  <row>
+	<field name="Code">IRN</field>
+	<field name="Name">Iran</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">1648195.00</field>
+	<field name="IndepYear">1906</field>
+	<field name="Population">67702000</field>
+	<field name="LifeExpectancy">69.7</field>
+	<field name="GNP">195746.00</field>
+	<field name="GNPOld">160151.00</field>
+	<field name="LocalName">Iran</field>
+	<field name="GovernmentForm">Islamic Republic</field>
+	<field name="HeadOfState">Ali Mohammad Khatami-Ardakani</field>
+	<field name="Capital">1380</field>
+	<field name="Code2">IR</field>
+  </row>
+
+  <row>
+	<field name="Code">IRQ</field>
+	<field name="Name">Iraq</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">438317.00</field>
+	<field name="IndepYear">1932</field>
+	<field name="Population">23115000</field>
+	<field name="LifeExpectancy">66.5</field>
+	<field name="GNP">11500.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Al-´Iraq</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Saddam Hussein al-Takriti</field>
+	<field name="Capital">1365</field>
+	<field name="Code2">IQ</field>
+  </row>
+
+  <row>
+	<field name="Code">ISL</field>
+	<field name="Name">Iceland</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Nordic Countries</field>
+	<field name="SurfaceArea">103000.00</field>
+	<field name="IndepYear">1944</field>
+	<field name="Population">279000</field>
+	<field name="LifeExpectancy">79.4</field>
+	<field name="GNP">8255.00</field>
+	<field name="GNPOld">7474.00</field>
+	<field name="LocalName">Ísland</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ólafur Ragnar Grímsson</field>
+	<field name="Capital">1449</field>
+	<field name="Code2">IS</field>
+  </row>
+
+  <row>
+	<field name="Code">ISR</field>
+	<field name="Name">Israel</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">21056.00</field>
+	<field name="IndepYear">1948</field>
+	<field name="Population">6217000</field>
+	<field name="LifeExpectancy">78.6</field>
+	<field name="GNP">97477.00</field>
+	<field name="GNPOld">98577.00</field>
+	<field name="LocalName">Yisra’el/Isra’il</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Moshe Katzav</field>
+	<field name="Capital">1450</field>
+	<field name="Code2">IL</field>
+  </row>
+
+  <row>
+	<field name="Code">ITA</field>
+	<field name="Name">Italy</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">301316.00</field>
+	<field name="IndepYear">1861</field>
+	<field name="Population">57680000</field>
+	<field name="LifeExpectancy">79.0</field>
+	<field name="GNP">1161755.00</field>
+	<field name="GNPOld">1145372.00</field>
+	<field name="LocalName">Italia</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Carlo Azeglio Ciampi</field>
+	<field name="Capital">1464</field>
+	<field name="Code2">IT</field>
+  </row>
+
+  <row>
+	<field name="Code">JAM</field>
+	<field name="Name">Jamaica</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">10990.00</field>
+	<field name="IndepYear">1962</field>
+	<field name="Population">2583000</field>
+	<field name="LifeExpectancy">75.2</field>
+	<field name="GNP">6871.00</field>
+	<field name="GNPOld">6722.00</field>
+	<field name="LocalName">Jamaica</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">1530</field>
+	<field name="Code2">JM</field>
+  </row>
+
+  <row>
+	<field name="Code">JOR</field>
+	<field name="Name">Jordan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">88946.00</field>
+	<field name="IndepYear">1946</field>
+	<field name="Population">5083000</field>
+	<field name="LifeExpectancy">77.4</field>
+	<field name="GNP">7526.00</field>
+	<field name="GNPOld">7051.00</field>
+	<field name="LocalName">Al-Urdunn</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Abdullah II</field>
+	<field name="Capital">1786</field>
+	<field name="Code2">JO</field>
+  </row>
+
+  <row>
+	<field name="Code">JPN</field>
+	<field name="Name">Japan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Eastern Asia</field>
+	<field name="SurfaceArea">377829.00</field>
+	<field name="IndepYear">-660</field>
+	<field name="Population">126714000</field>
+	<field name="LifeExpectancy">80.7</field>
+	<field name="GNP">3787042.00</field>
+	<field name="GNPOld">4192638.00</field>
+	<field name="LocalName">Nihon/Nippon</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Akihito</field>
+	<field name="Capital">1532</field>
+	<field name="Code2">JP</field>
+  </row>
+
+  <row>
+	<field name="Code">KAZ</field>
+	<field name="Name">Kazakstan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">2724900.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">16223000</field>
+	<field name="LifeExpectancy">63.2</field>
+	<field name="GNP">24375.00</field>
+	<field name="GNPOld">23383.00</field>
+	<field name="LocalName">Qazaqstan</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Nursultan Nazarbajev</field>
+	<field name="Capital">1864</field>
+	<field name="Code2">KZ</field>
+  </row>
+
+  <row>
+	<field name="Code">KEN</field>
+	<field name="Name">Kenya</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">580367.00</field>
+	<field name="IndepYear">1963</field>
+	<field name="Population">30080000</field>
+	<field name="LifeExpectancy">48.0</field>
+	<field name="GNP">9217.00</field>
+	<field name="GNPOld">10241.00</field>
+	<field name="LocalName">Kenya</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Daniel arap Moi</field>
+	<field name="Capital">1881</field>
+	<field name="Code2">KE</field>
+  </row>
+
+  <row>
+	<field name="Code">KGZ</field>
+	<field name="Name">Kyrgyzstan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">199900.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">4699000</field>
+	<field name="LifeExpectancy">63.4</field>
+	<field name="GNP">1626.00</field>
+	<field name="GNPOld">1767.00</field>
+	<field name="LocalName">Kyrgyzstan</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Askar Akajev</field>
+	<field name="Capital">2253</field>
+	<field name="Code2">KG</field>
+  </row>
+
+  <row>
+	<field name="Code">KHM</field>
+	<field name="Name">Cambodia</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">181035.00</field>
+	<field name="IndepYear">1953</field>
+	<field name="Population">11168000</field>
+	<field name="LifeExpectancy">56.5</field>
+	<field name="GNP">5121.00</field>
+	<field name="GNPOld">5670.00</field>
+	<field name="LocalName">Kâmpuchéa</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Norodom Sihanouk</field>
+	<field name="Capital">1800</field>
+	<field name="Code2">KH</field>
+  </row>
+
+  <row>
+	<field name="Code">KIR</field>
+	<field name="Name">Kiribati</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Micronesia</field>
+	<field name="SurfaceArea">726.00</field>
+	<field name="IndepYear">1979</field>
+	<field name="Population">83000</field>
+	<field name="LifeExpectancy">59.8</field>
+	<field name="GNP">40.70</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Kiribati</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Teburoro Tito</field>
+	<field name="Capital">2256</field>
+	<field name="Code2">KI</field>
+  </row>
+
+  <row>
+	<field name="Code">KNA</field>
+	<field name="Name">Saint Kitts and Nevis</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">261.00</field>
+	<field name="IndepYear">1983</field>
+	<field name="Population">38000</field>
+	<field name="LifeExpectancy">70.7</field>
+	<field name="GNP">299.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Saint Kitts and Nevis</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">3064</field>
+	<field name="Code2">KN</field>
+  </row>
+
+  <row>
+	<field name="Code">KOR</field>
+	<field name="Name">South Korea</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Eastern Asia</field>
+	<field name="SurfaceArea">99434.00</field>
+	<field name="IndepYear">1948</field>
+	<field name="Population">46844000</field>
+	<field name="LifeExpectancy">74.4</field>
+	<field name="GNP">320749.00</field>
+	<field name="GNPOld">442544.00</field>
+	<field name="LocalName">Taehan Min’guk (Namhan)</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Kim Dae-jung</field>
+	<field name="Capital">2331</field>
+	<field name="Code2">KR</field>
+  </row>
+
+  <row>
+	<field name="Code">KWT</field>
+	<field name="Name">Kuwait</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">17818.00</field>
+	<field name="IndepYear">1961</field>
+	<field name="Population">1972000</field>
+	<field name="LifeExpectancy">76.1</field>
+	<field name="GNP">27037.00</field>
+	<field name="GNPOld">30373.00</field>
+	<field name="LocalName">Al-Kuwayt</field>
+	<field name="GovernmentForm">Constitutional Monarchy (Emirate)</field>
+	<field name="HeadOfState">Jabir al-Ahmad al-Jabir al-Sabah</field>
+	<field name="Capital">2429</field>
+	<field name="Code2">KW</field>
+  </row>
+
+  <row>
+	<field name="Code">LAO</field>
+	<field name="Name">Laos</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">236800.00</field>
+	<field name="IndepYear">1953</field>
+	<field name="Population">5433000</field>
+	<field name="LifeExpectancy">53.1</field>
+	<field name="GNP">1292.00</field>
+	<field name="GNPOld">1746.00</field>
+	<field name="LocalName">Lao</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Khamtay Siphandone</field>
+	<field name="Capital">2432</field>
+	<field name="Code2">LA</field>
+  </row>
+
+  <row>
+	<field name="Code">LBN</field>
+	<field name="Name">Lebanon</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">10400.00</field>
+	<field name="IndepYear">1941</field>
+	<field name="Population">3282000</field>
+	<field name="LifeExpectancy">71.3</field>
+	<field name="GNP">17121.00</field>
+	<field name="GNPOld">15129.00</field>
+	<field name="LocalName">Lubnan</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Émile Lahoud</field>
+	<field name="Capital">2438</field>
+	<field name="Code2">LB</field>
+  </row>
+
+  <row>
+	<field name="Code">LBR</field>
+	<field name="Name">Liberia</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">111369.00</field>
+	<field name="IndepYear">1847</field>
+	<field name="Population">3154000</field>
+	<field name="LifeExpectancy">51.0</field>
+	<field name="GNP">2012.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Liberia</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Charles Taylor</field>
+	<field name="Capital">2440</field>
+	<field name="Code2">LR</field>
+  </row>
+
+  <row>
+	<field name="Code">LBY</field>
+	<field name="Name">Libyan Arab Jamahiriya</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Northern Africa</field>
+	<field name="SurfaceArea">1759540.00</field>
+	<field name="IndepYear">1951</field>
+	<field name="Population">5605000</field>
+	<field name="LifeExpectancy">75.5</field>
+	<field name="GNP">44806.00</field>
+	<field name="GNPOld">40562.00</field>
+	<field name="LocalName">Libiya</field>
+	<field name="GovernmentForm">Socialistic State</field>
+	<field name="HeadOfState">Muammar al-Qadhafi</field>
+	<field name="Capital">2441</field>
+	<field name="Code2">LY</field>
+  </row>
+
+  <row>
+	<field name="Code">LCA</field>
+	<field name="Name">Saint Lucia</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">622.00</field>
+	<field name="IndepYear">1979</field>
+	<field name="Population">154000</field>
+	<field name="LifeExpectancy">72.3</field>
+	<field name="GNP">571.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Saint Lucia</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">3065</field>
+	<field name="Code2">LC</field>
+  </row>
+
+  <row>
+	<field name="Code">LIE</field>
+	<field name="Name">Liechtenstein</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Western Europe</field>
+	<field name="SurfaceArea">160.00</field>
+	<field name="IndepYear">1806</field>
+	<field name="Population">32300</field>
+	<field name="LifeExpectancy">78.8</field>
+	<field name="GNP">1119.00</field>
+	<field name="GNPOld">1084.00</field>
+	<field name="LocalName">Liechtenstein</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Hans-Adam II</field>
+	<field name="Capital">2446</field>
+	<field name="Code2">LI</field>
+  </row>
+
+  <row>
+	<field name="Code">LKA</field>
+	<field name="Name">Sri Lanka</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">65610.00</field>
+	<field name="IndepYear">1948</field>
+	<field name="Population">18827000</field>
+	<field name="LifeExpectancy">71.8</field>
+	<field name="GNP">15706.00</field>
+	<field name="GNPOld">15091.00</field>
+	<field name="LocalName">Sri Lanka/Ilankai</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Chandrika Kumaratunga</field>
+	<field name="Capital">3217</field>
+	<field name="Code2">LK</field>
+  </row>
+
+  <row>
+	<field name="Code">LSO</field>
+	<field name="Name">Lesotho</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Southern Africa</field>
+	<field name="SurfaceArea">30355.00</field>
+	<field name="IndepYear">1966</field>
+	<field name="Population">2153000</field>
+	<field name="LifeExpectancy">50.8</field>
+	<field name="GNP">1061.00</field>
+	<field name="GNPOld">1161.00</field>
+	<field name="LocalName">Lesotho</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Letsie III</field>
+	<field name="Capital">2437</field>
+	<field name="Code2">LS</field>
+  </row>
+
+  <row>
+	<field name="Code">LTU</field>
+	<field name="Name">Lithuania</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Baltic Countries</field>
+	<field name="SurfaceArea">65301.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">3698500</field>
+	<field name="LifeExpectancy">69.1</field>
+	<field name="GNP">10692.00</field>
+	<field name="GNPOld">9585.00</field>
+	<field name="LocalName">Lietuva</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Valdas Adamkus</field>
+	<field name="Capital">2447</field>
+	<field name="Code2">LT</field>
+  </row>
+
+  <row>
+	<field name="Code">LUX</field>
+	<field name="Name">Luxembourg</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Western Europe</field>
+	<field name="SurfaceArea">2586.00</field>
+	<field name="IndepYear">1867</field>
+	<field name="Population">435700</field>
+	<field name="LifeExpectancy">77.1</field>
+	<field name="GNP">16321.00</field>
+	<field name="GNPOld">15519.00</field>
+	<field name="LocalName">Luxembourg/Lëtzebuerg</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Henri</field>
+	<field name="Capital">2452</field>
+	<field name="Code2">LU</field>
+  </row>
+
+  <row>
+	<field name="Code">LVA</field>
+	<field name="Name">Latvia</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Baltic Countries</field>
+	<field name="SurfaceArea">64589.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">2424200</field>
+	<field name="LifeExpectancy">68.4</field>
+	<field name="GNP">6398.00</field>
+	<field name="GNPOld">5639.00</field>
+	<field name="LocalName">Latvija</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Vaira Vike-Freiberga</field>
+	<field name="Capital">2434</field>
+	<field name="Code2">LV</field>
+  </row>
+
+  <row>
+	<field name="Code">MAC</field>
+	<field name="Name">Macao</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Eastern Asia</field>
+	<field name="SurfaceArea">18.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">473000</field>
+	<field name="LifeExpectancy">81.6</field>
+	<field name="GNP">5749.00</field>
+	<field name="GNPOld">5940.00</field>
+	<field name="LocalName">Macau/Aomen</field>
+	<field name="GovernmentForm">Special Administrative Region of China</field>
+	<field name="HeadOfState">Jiang Zemin</field>
+	<field name="Capital">2454</field>
+	<field name="Code2">MO</field>
+  </row>
+
+  <row>
+	<field name="Code">MAR</field>
+	<field name="Name">Morocco</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Northern Africa</field>
+	<field name="SurfaceArea">446550.00</field>
+	<field name="IndepYear">1956</field>
+	<field name="Population">28351000</field>
+	<field name="LifeExpectancy">69.1</field>
+	<field name="GNP">36124.00</field>
+	<field name="GNPOld">33514.00</field>
+	<field name="LocalName">Al-Maghrib</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Mohammed VI</field>
+	<field name="Capital">2486</field>
+	<field name="Code2">MA</field>
+  </row>
+
+  <row>
+	<field name="Code">MCO</field>
+	<field name="Name">Monaco</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Western Europe</field>
+	<field name="SurfaceArea">1.50</field>
+	<field name="IndepYear">1861</field>
+	<field name="Population">34000</field>
+	<field name="LifeExpectancy">78.8</field>
+	<field name="GNP">776.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Monaco</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Rainier III</field>
+	<field name="Capital">2695</field>
+	<field name="Code2">MC</field>
+  </row>
+
+  <row>
+	<field name="Code">MDA</field>
+	<field name="Name">Moldova</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">33851.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">4380000</field>
+	<field name="LifeExpectancy">64.5</field>
+	<field name="GNP">1579.00</field>
+	<field name="GNPOld">1872.00</field>
+	<field name="LocalName">Moldova</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Vladimir Voronin</field>
+	<field name="Capital">2690</field>
+	<field name="Code2">MD</field>
+  </row>
+
+  <row>
+	<field name="Code">MDG</field>
+	<field name="Name">Madagascar</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">587041.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">15942000</field>
+	<field name="LifeExpectancy">55.0</field>
+	<field name="GNP">3750.00</field>
+	<field name="GNPOld">3545.00</field>
+	<field name="LocalName">Madagasikara/Madagascar</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Didier Ratsiraka</field>
+	<field name="Capital">2455</field>
+	<field name="Code2">MG</field>
+  </row>
+
+  <row>
+	<field name="Code">MDV</field>
+	<field name="Name">Maldives</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">298.00</field>
+	<field name="IndepYear">1965</field>
+	<field name="Population">286000</field>
+	<field name="LifeExpectancy">62.2</field>
+	<field name="GNP">199.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Dhivehi Raajje/Maldives</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Maumoon Abdul Gayoom</field>
+	<field name="Capital">2463</field>
+	<field name="Code2">MV</field>
+  </row>
+
+  <row>
+	<field name="Code">MEX</field>
+	<field name="Name">Mexico</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Central America</field>
+	<field name="SurfaceArea">1958201.00</field>
+	<field name="IndepYear">1810</field>
+	<field name="Population">98881000</field>
+	<field name="LifeExpectancy">71.5</field>
+	<field name="GNP">414972.00</field>
+	<field name="GNPOld">401461.00</field>
+	<field name="LocalName">México</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Vicente Fox Quesada</field>
+	<field name="Capital">2515</field>
+	<field name="Code2">MX</field>
+  </row>
+
+  <row>
+	<field name="Code">MHL</field>
+	<field name="Name">Marshall Islands</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Micronesia</field>
+	<field name="SurfaceArea">181.00</field>
+	<field name="IndepYear">1990</field>
+	<field name="Population">64000</field>
+	<field name="LifeExpectancy">65.5</field>
+	<field name="GNP">97.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Marshall Islands/Majol</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Kessai Note</field>
+	<field name="Capital">2507</field>
+	<field name="Code2">MH</field>
+  </row>
+
+  <row>
+	<field name="Code">MKD</field>
+	<field name="Name">Macedonia</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">25713.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">2024000</field>
+	<field name="LifeExpectancy">73.8</field>
+	<field name="GNP">1694.00</field>
+	<field name="GNPOld">1915.00</field>
+	<field name="LocalName">Makedonija</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Boris Trajkovski</field>
+	<field name="Capital">2460</field>
+	<field name="Code2">MK</field>
+  </row>
+
+  <row>
+	<field name="Code">MLI</field>
+	<field name="Name">Mali</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">1240192.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">11234000</field>
+	<field name="LifeExpectancy">46.7</field>
+	<field name="GNP">2642.00</field>
+	<field name="GNPOld">2453.00</field>
+	<field name="LocalName">Mali</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Alpha Oumar Konaré</field>
+	<field name="Capital">2482</field>
+	<field name="Code2">ML</field>
+  </row>
+
+  <row>
+	<field name="Code">MLT</field>
+	<field name="Name">Malta</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">316.00</field>
+	<field name="IndepYear">1964</field>
+	<field name="Population">380200</field>
+	<field name="LifeExpectancy">77.9</field>
+	<field name="GNP">3512.00</field>
+	<field name="GNPOld">3338.00</field>
+	<field name="LocalName">Malta</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Guido de Marco</field>
+	<field name="Capital">2484</field>
+	<field name="Code2">MT</field>
+  </row>
+
+  <row>
+	<field name="Code">MMR</field>
+	<field name="Name">Myanmar</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">676578.00</field>
+	<field name="IndepYear">1948</field>
+	<field name="Population">45611000</field>
+	<field name="LifeExpectancy">54.9</field>
+	<field name="GNP">180375.00</field>
+	<field name="GNPOld">171028.00</field>
+	<field name="LocalName">Myanma Pye</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">kenraali Than Shwe</field>
+	<field name="Capital">2710</field>
+	<field name="Code2">MM</field>
+  </row>
+
+  <row>
+	<field name="Code">MNG</field>
+	<field name="Name">Mongolia</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Eastern Asia</field>
+	<field name="SurfaceArea">1566500.00</field>
+	<field name="IndepYear">1921</field>
+	<field name="Population">2662000</field>
+	<field name="LifeExpectancy">67.3</field>
+	<field name="GNP">1043.00</field>
+	<field name="GNPOld">933.00</field>
+	<field name="LocalName">Mongol Uls</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Natsagiin Bagabandi</field>
+	<field name="Capital">2696</field>
+	<field name="Code2">MN</field>
+  </row>
+
+  <row>
+	<field name="Code">MNP</field>
+	<field name="Name">Northern Mariana Islands</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Micronesia</field>
+	<field name="SurfaceArea">464.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">78000</field>
+	<field name="LifeExpectancy">75.5</field>
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Northern Mariana Islands</field>
+	<field name="GovernmentForm">Commonwealth of the US</field>
+	<field name="HeadOfState">George W. Bush</field>
+	<field name="Capital">2913</field>
+	<field name="Code2">MP</field>
+  </row>
+
+  <row>
+	<field name="Code">MOZ</field>
+	<field name="Name">Mozambique</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">801590.00</field>
+	<field name="IndepYear">1975</field>
+	<field name="Population">19680000</field>
+	<field name="LifeExpectancy">37.5</field>
+	<field name="GNP">2891.00</field>
+	<field name="GNPOld">2711.00</field>
+	<field name="LocalName">Moçambique</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Joaquím A. Chissano</field>
+	<field name="Capital">2698</field>
+	<field name="Code2">MZ</field>
+  </row>
+
+  <row>
+	<field name="Code">MRT</field>
+	<field name="Name">Mauritania</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">1025520.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">2670000</field>
+	<field name="LifeExpectancy">50.8</field>
+	<field name="GNP">998.00</field>
+	<field name="GNPOld">1081.00</field>
+	<field name="LocalName">Muritaniya/Mauritanie</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Maaouiya Ould Sid´Ahmad Taya</field>
+	<field name="Capital">2509</field>
+	<field name="Code2">MR</field>
+  </row>
+
+  <row>
+	<field name="Code">MSR</field>
+	<field name="Name">Montserrat</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">102.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">11000</field>
+	<field name="LifeExpectancy">78.0</field>
+	<field name="GNP">109.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Montserrat</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">2697</field>
+	<field name="Code2">MS</field>
+  </row>
+
+  <row>
+	<field name="Code">MTQ</field>
+	<field name="Name">Martinique</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">1102.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">395000</field>
+	<field name="LifeExpectancy">78.3</field>
+	<field name="GNP">2731.00</field>
+	<field name="GNPOld">2559.00</field>
+	<field name="LocalName">Martinique</field>
+	<field name="GovernmentForm">Overseas Department of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">2508</field>
+	<field name="Code2">MQ</field>
+  </row>
+
+  <row>
+	<field name="Code">MUS</field>
+	<field name="Name">Mauritius</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">2040.00</field>
+	<field name="IndepYear">1968</field>
+	<field name="Population">1158000</field>
+	<field name="LifeExpectancy">71.0</field>
+	<field name="GNP">4251.00</field>
+	<field name="GNPOld">4186.00</field>
+	<field name="LocalName">Mauritius</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Cassam Uteem</field>
+	<field name="Capital">2511</field>
+	<field name="Code2">MU</field>
+  </row>
+
+  <row>
+	<field name="Code">MWI</field>
+	<field name="Name">Malawi</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">118484.00</field>
+	<field name="IndepYear">1964</field>
+	<field name="Population">10925000</field>
+	<field name="LifeExpectancy">37.6</field>
+	<field name="GNP">1687.00</field>
+	<field name="GNPOld">2527.00</field>
+	<field name="LocalName">Malawi</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Bakili Muluzi</field>
+	<field name="Capital">2462</field>
+	<field name="Code2">MW</field>
+  </row>
+
+  <row>
+	<field name="Code">MYS</field>
+	<field name="Name">Malaysia</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">329758.00</field>
+	<field name="IndepYear">1957</field>
+	<field name="Population">22244000</field>
+	<field name="LifeExpectancy">70.8</field>
+	<field name="GNP">69213.00</field>
+	<field name="GNPOld">97884.00</field>
+	<field name="LocalName">Malaysia</field>
+	<field name="GovernmentForm">Constitutional Monarchy, Federation</field>
+	<field name="HeadOfState">Salahuddin Abdul Aziz Shah Alhaj</field>
+	<field name="Capital">2464</field>
+	<field name="Code2">MY</field>
+  </row>
+
+  <row>
+	<field name="Code">MYT</field>
+	<field name="Name">Mayotte</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">373.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">149000</field>
+	<field name="LifeExpectancy">59.5</field>
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Mayotte</field>
+	<field name="GovernmentForm">Territorial Collectivity of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">2514</field>
+	<field name="Code2">YT</field>
+  </row>
+
+  <row>
+	<field name="Code">NAM</field>
+	<field name="Name">Namibia</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Southern Africa</field>
+	<field name="SurfaceArea">824292.00</field>
+	<field name="IndepYear">1990</field>
+	<field name="Population">1726000</field>
+	<field name="LifeExpectancy">42.5</field>
+	<field name="GNP">3101.00</field>
+	<field name="GNPOld">3384.00</field>
+	<field name="LocalName">Namibia</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Sam Nujoma</field>
+	<field name="Capital">2726</field>
+	<field name="Code2">NA</field>
+  </row>
+
+  <row>
+	<field name="Code">NCL</field>
+	<field name="Name">New Caledonia</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Melanesia</field>
+	<field name="SurfaceArea">18575.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">214000</field>
+	<field name="LifeExpectancy">72.8</field>
+	<field name="GNP">3563.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Nouvelle-Calédonie</field>
+	<field name="GovernmentForm">Nonmetropolitan Territory of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">3493</field>
+	<field name="Code2">NC</field>
+  </row>
+
+  <row>
+	<field name="Code">NER</field>
+	<field name="Name">Niger</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">1267000.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">10730000</field>
+	<field name="LifeExpectancy">41.3</field>
+	<field name="GNP">1706.00</field>
+	<field name="GNPOld">1580.00</field>
+	<field name="LocalName">Niger</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Mamadou Tandja</field>
+	<field name="Capital">2738</field>
+	<field name="Code2">NE</field>
+  </row>
+
+  <row>
+	<field name="Code">NFK</field>
+	<field name="Name">Norfolk Island</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Australia and New Zealand</field>
+	<field name="SurfaceArea">36.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">2000</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Norfolk Island</field>
+	<field name="GovernmentForm">Territory of Australia</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">2806</field>
+	<field name="Code2">NF</field>
+  </row>
+
+  <row>
+	<field name="Code">NGA</field>
+	<field name="Name">Nigeria</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">923768.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">111506000</field>
+	<field name="LifeExpectancy">51.6</field>
+	<field name="GNP">65707.00</field>
+	<field name="GNPOld">58623.00</field>
+	<field name="LocalName">Nigeria</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Olusegun Obasanjo</field>
+	<field name="Capital">2754</field>
+	<field name="Code2">NG</field>
+  </row>
+
+  <row>
+	<field name="Code">NIC</field>
+	<field name="Name">Nicaragua</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Central America</field>
+	<field name="SurfaceArea">130000.00</field>
+	<field name="IndepYear">1838</field>
+	<field name="Population">5074000</field>
+	<field name="LifeExpectancy">68.7</field>
+	<field name="GNP">1988.00</field>
+	<field name="GNPOld">2023.00</field>
+	<field name="LocalName">Nicaragua</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Arnoldo Alemán Lacayo</field>
+	<field name="Capital">2734</field>
+	<field name="Code2">NI</field>
+  </row>
+
+  <row>
+	<field name="Code">NIU</field>
+	<field name="Name">Niue</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">260.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">2000</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Niue</field>
+	<field name="GovernmentForm">Nonmetropolitan Territory of New Zealand</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">2805</field>
+	<field name="Code2">NU</field>
+  </row>
+
+  <row>
+	<field name="Code">NLD</field>
+	<field name="Name">Netherlands</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Western Europe</field>
+	<field name="SurfaceArea">41526.00</field>
+	<field name="IndepYear">1581</field>
+	<field name="Population">15864000</field>
+	<field name="LifeExpectancy">78.3</field>
+	<field name="GNP">371362.00</field>
+	<field name="GNPOld">360478.00</field>
+	<field name="LocalName">Nederland</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Beatrix</field>
+	<field name="Capital">5</field>
+	<field name="Code2">NL</field>
+  </row>
+
+  <row>
+	<field name="Code">NOR</field>
+	<field name="Name">Norway</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Nordic Countries</field>
+	<field name="SurfaceArea">323877.00</field>
+	<field name="IndepYear">1905</field>
+	<field name="Population">4478500</field>
+	<field name="LifeExpectancy">78.7</field>
+	<field name="GNP">145895.00</field>
+	<field name="GNPOld">153370.00</field>
+	<field name="LocalName">Norge</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Harald V</field>
+	<field name="Capital">2807</field>
+	<field name="Code2">NO</field>
+  </row>
+
+  <row>
+	<field name="Code">NPL</field>
+	<field name="Name">Nepal</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">147181.00</field>
+	<field name="IndepYear">1769</field>
+	<field name="Population">23930000</field>
+	<field name="LifeExpectancy">57.8</field>
+	<field name="GNP">4768.00</field>
+	<field name="GNPOld">4837.00</field>
+	<field name="LocalName">Nepal</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Gyanendra Bir Bikram</field>
+	<field name="Capital">2729</field>
+	<field name="Code2">NP</field>
+  </row>
+
+  <row>
+	<field name="Code">NRU</field>
+	<field name="Name">Nauru</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Micronesia</field>
+	<field name="SurfaceArea">21.00</field>
+	<field name="IndepYear">1968</field>
+	<field name="Population">12000</field>
+	<field name="LifeExpectancy">60.8</field>
+	<field name="GNP">197.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Naoero/Nauru</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Bernard Dowiyogo</field>
+	<field name="Capital">2728</field>
+	<field name="Code2">NR</field>
+  </row>
+
+  <row>
+	<field name="Code">NZL</field>
+	<field name="Name">New Zealand</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Australia and New Zealand</field>
+	<field name="SurfaceArea">270534.00</field>
+	<field name="IndepYear">1907</field>
+	<field name="Population">3862000</field>
+	<field name="LifeExpectancy">77.8</field>
+	<field name="GNP">54669.00</field>
+	<field name="GNPOld">64960.00</field>
+	<field name="LocalName">New Zealand/Aotearoa</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">3499</field>
+	<field name="Code2">NZ</field>
+  </row>
+
+  <row>
+	<field name="Code">OMN</field>
+	<field name="Name">Oman</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">309500.00</field>
+	<field name="IndepYear">1951</field>
+	<field name="Population">2542000</field>
+	<field name="LifeExpectancy">71.8</field>
+	<field name="GNP">16904.00</field>
+	<field name="GNPOld">16153.00</field>
+	<field name="LocalName">´Uman</field>
+	<field name="GovernmentForm">Monarchy (Sultanate)</field>
+	<field name="HeadOfState">Qabus ibn Sa´id</field>
+	<field name="Capital">2821</field>
+	<field name="Code2">OM</field>
+  </row>
+
+  <row>
+	<field name="Code">PAK</field>
+	<field name="Name">Pakistan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">796095.00</field>
+	<field name="IndepYear">1947</field>
+	<field name="Population">156483000</field>
+	<field name="LifeExpectancy">61.1</field>
+	<field name="GNP">61289.00</field>
+	<field name="GNPOld">58549.00</field>
+	<field name="LocalName">Pakistan</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Mohammad Rafiq Tarar</field>
+	<field name="Capital">2831</field>
+	<field name="Code2">PK</field>
+  </row>
+
+  <row>
+	<field name="Code">PAN</field>
+	<field name="Name">Panama</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Central America</field>
+	<field name="SurfaceArea">75517.00</field>
+	<field name="IndepYear">1903</field>
+	<field name="Population">2856000</field>
+	<field name="LifeExpectancy">75.5</field>
+	<field name="GNP">9131.00</field>
+	<field name="GNPOld">8700.00</field>
+	<field name="LocalName">Panamá</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Mireya Elisa Moscoso Rodríguez</field>
+	<field name="Capital">2882</field>
+	<field name="Code2">PA</field>
+  </row>
+
+  <row>
+	<field name="Code">PCN</field>
+	<field name="Name">Pitcairn</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">49.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">50</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Pitcairn</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">2912</field>
+	<field name="Code2">PN</field>
+  </row>
+
+  <row>
+	<field name="Code">PER</field>
+	<field name="Name">Peru</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">1285216.00</field>
+	<field name="IndepYear">1821</field>
+	<field name="Population">25662000</field>
+	<field name="LifeExpectancy">70.0</field>
+	<field name="GNP">64140.00</field>
+	<field name="GNPOld">65186.00</field>
+	<field name="LocalName">Perú/Piruw</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Valentin Paniagua Corazao</field>
+	<field name="Capital">2890</field>
+	<field name="Code2">PE</field>
+  </row>
+
+  <row>
+	<field name="Code">PHL</field>
+	<field name="Name">Philippines</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">300000.00</field>
+	<field name="IndepYear">1946</field>
+	<field name="Population">75967000</field>
+	<field name="LifeExpectancy">67.5</field>
+	<field name="GNP">65107.00</field>
+	<field name="GNPOld">82239.00</field>
+	<field name="LocalName">Pilipinas</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Gloria Macapagal-Arroyo</field>
+	<field name="Capital">766</field>
+	<field name="Code2">PH</field>
+  </row>
+
+  <row>
+	<field name="Code">PLW</field>
+	<field name="Name">Palau</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Micronesia</field>
+	<field name="SurfaceArea">459.00</field>
+	<field name="IndepYear">1994</field>
+	<field name="Population">19000</field>
+	<field name="LifeExpectancy">68.6</field>
+	<field name="GNP">105.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Belau/Palau</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Kuniwo Nakamura</field>
+	<field name="Capital">2881</field>
+	<field name="Code2">PW</field>
+  </row>
+
+  <row>
+	<field name="Code">PNG</field>
+	<field name="Name">Papua New Guinea</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Melanesia</field>
+	<field name="SurfaceArea">462840.00</field>
+	<field name="IndepYear">1975</field>
+	<field name="Population">4807000</field>
+	<field name="LifeExpectancy">63.1</field>
+	<field name="GNP">4988.00</field>
+	<field name="GNPOld">6328.00</field>
+	<field name="LocalName">Papua New Guinea/Papua Niugini</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">2884</field>
+	<field name="Code2">PG</field>
+  </row>
+
+  <row>
+	<field name="Code">POL</field>
+	<field name="Name">Poland</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">323250.00</field>
+	<field name="IndepYear">1918</field>
+	<field name="Population">38653600</field>
+	<field name="LifeExpectancy">73.2</field>
+	<field name="GNP">151697.00</field>
+	<field name="GNPOld">135636.00</field>
+	<field name="LocalName">Polska</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Aleksander Kwasniewski</field>
+	<field name="Capital">2928</field>
+	<field name="Code2">PL</field>
+  </row>
+
+  <row>
+	<field name="Code">PRI</field>
+	<field name="Name">Puerto Rico</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">8875.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">3869000</field>
+	<field name="LifeExpectancy">75.6</field>
+	<field name="GNP">34100.00</field>
+	<field name="GNPOld">32100.00</field>
+	<field name="LocalName">Puerto Rico</field>
+	<field name="GovernmentForm">Commonwealth of the US</field>
+	<field name="HeadOfState">George W. Bush</field>
+	<field name="Capital">2919</field>
+	<field name="Code2">PR</field>
+  </row>
+
+  <row>
+	<field name="Code">PRK</field>
+	<field name="Name">North Korea</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Eastern Asia</field>
+	<field name="SurfaceArea">120538.00</field>
+	<field name="IndepYear">1948</field>
+	<field name="Population">24039000</field>
+	<field name="LifeExpectancy">70.7</field>
+	<field name="GNP">5332.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Choson Minjujuui In´min Konghwaguk (Bukhan)</field>
+	<field name="GovernmentForm">Socialistic Republic</field>
+	<field name="HeadOfState">Kim Jong-il</field>
+	<field name="Capital">2318</field>
+	<field name="Code2">KP</field>
+  </row>
+
+  <row>
+	<field name="Code">PRT</field>
+	<field name="Name">Portugal</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">91982.00</field>
+	<field name="IndepYear">1143</field>
+	<field name="Population">9997600</field>
+	<field name="LifeExpectancy">75.8</field>
+	<field name="GNP">105954.00</field>
+	<field name="GNPOld">102133.00</field>
+	<field name="LocalName">Portugal</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Jorge Sampãio</field>
+	<field name="Capital">2914</field>
+	<field name="Code2">PT</field>
+  </row>
+
+  <row>
+	<field name="Code">PRY</field>
+	<field name="Name">Paraguay</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">406752.00</field>
+	<field name="IndepYear">1811</field>
+	<field name="Population">5496000</field>
+	<field name="LifeExpectancy">73.7</field>
+	<field name="GNP">8444.00</field>
+	<field name="GNPOld">9555.00</field>
+	<field name="LocalName">Paraguay</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Luis Ángel González Macchi</field>
+	<field name="Capital">2885</field>
+	<field name="Code2">PY</field>
+  </row>
+
+  <row>
+	<field name="Code">PSE</field>
+	<field name="Name">Palestine</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">6257.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">3101000</field>
+	<field name="LifeExpectancy">71.4</field>
+	<field name="GNP">4173.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Filastin</field>
+	<field name="GovernmentForm">Autonomous Area</field>
+	<field name="HeadOfState">Yasser (Yasir) Arafat</field>
+	<field name="Capital">4074</field>
+	<field name="Code2">PS</field>
+  </row>
+
+  <row>
+	<field name="Code">PYF</field>
+	<field name="Name">French Polynesia</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">4000.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">235000</field>
+	<field name="LifeExpectancy">74.8</field>
+	<field name="GNP">818.00</field>
+	<field name="GNPOld">781.00</field>
+	<field name="LocalName">Polynésie française</field>
+	<field name="GovernmentForm">Nonmetropolitan Territory of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">3016</field>
+	<field name="Code2">PF</field>
+  </row>
+
+  <row>
+	<field name="Code">QAT</field>
+	<field name="Name">Qatar</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">11000.00</field>
+	<field name="IndepYear">1971</field>
+	<field name="Population">599000</field>
+	<field name="LifeExpectancy">72.4</field>
+	<field name="GNP">9472.00</field>
+	<field name="GNPOld">8920.00</field>
+	<field name="LocalName">Qatar</field>
+	<field name="GovernmentForm">Monarchy</field>
+	<field name="HeadOfState">Hamad ibn Khalifa al-Thani</field>
+	<field name="Capital">2973</field>
+	<field name="Code2">QA</field>
+  </row>
+
+  <row>
+	<field name="Code">REU</field>
+	<field name="Name">Réunion</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">2510.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">699000</field>
+	<field name="LifeExpectancy">72.7</field>
+	<field name="GNP">8287.00</field>
+	<field name="GNPOld">7988.00</field>
+	<field name="LocalName">Réunion</field>
+	<field name="GovernmentForm">Overseas Department of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">3017</field>
+	<field name="Code2">RE</field>
+  </row>
+
+  <row>
+	<field name="Code">ROM</field>
+	<field name="Name">Romania</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">238391.00</field>
+	<field name="IndepYear">1878</field>
+	<field name="Population">22455500</field>
+	<field name="LifeExpectancy">69.9</field>
+	<field name="GNP">38158.00</field>
+	<field name="GNPOld">34843.00</field>
+	<field name="LocalName">România</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ion Iliescu</field>
+	<field name="Capital">3018</field>
+	<field name="Code2">RO</field>
+  </row>
+
+  <row>
+	<field name="Code">RUS</field>
+	<field name="Name">Russian Federation</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">17075400.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">146934000</field>
+	<field name="LifeExpectancy">67.2</field>
+	<field name="GNP">276608.00</field>
+	<field name="GNPOld">442989.00</field>
+	<field name="LocalName">Rossija</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Vladimir Putin</field>
+	<field name="Capital">3580</field>
+	<field name="Code2">RU</field>
+  </row>
+
+  <row>
+	<field name="Code">RWA</field>
+	<field name="Name">Rwanda</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">26338.00</field>
+	<field name="IndepYear">1962</field>
+	<field name="Population">7733000</field>
+	<field name="LifeExpectancy">39.3</field>
+	<field name="GNP">2036.00</field>
+	<field name="GNPOld">1863.00</field>
+	<field name="LocalName">Rwanda/Urwanda</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Paul Kagame</field>
+	<field name="Capital">3047</field>
+	<field name="Code2">RW</field>
+  </row>
+
+  <row>
+	<field name="Code">SAU</field>
+	<field name="Name">Saudi Arabia</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">2149690.00</field>
+	<field name="IndepYear">1932</field>
+	<field name="Population">21607000</field>
+	<field name="LifeExpectancy">67.8</field>
+	<field name="GNP">137635.00</field>
+	<field name="GNPOld">146171.00</field>
+	<field name="LocalName">Al-´Arabiya as-Sa´udiya</field>
+	<field name="GovernmentForm">Monarchy</field>
+	<field name="HeadOfState">Fahd ibn Abdul-Aziz al-Sa´ud</field>
+	<field name="Capital">3173</field>
+	<field name="Code2">SA</field>
+  </row>
+
+  <row>
+	<field name="Code">SDN</field>
+	<field name="Name">Sudan</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Northern Africa</field>
+	<field name="SurfaceArea">2505813.00</field>
+	<field name="IndepYear">1956</field>
+	<field name="Population">29490000</field>
+	<field name="LifeExpectancy">56.6</field>
+	<field name="GNP">10162.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">As-Sudan</field>
+	<field name="GovernmentForm">Islamic Republic</field>
+	<field name="HeadOfState">Omar Hassan Ahmad al-Bashir</field>
+	<field name="Capital">3225</field>
+	<field name="Code2">SD</field>
+  </row>
+
+  <row>
+	<field name="Code">SEN</field>
+	<field name="Name">Senegal</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">196722.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">9481000</field>
+	<field name="LifeExpectancy">62.2</field>
+	<field name="GNP">4787.00</field>
+	<field name="GNPOld">4542.00</field>
+	<field name="LocalName">Sénégal/Sounougal</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Abdoulaye Wade</field>
+	<field name="Capital">3198</field>
+	<field name="Code2">SN</field>
+  </row>
+
+  <row>
+	<field name="Code">SGP</field>
+	<field name="Name">Singapore</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">618.00</field>
+	<field name="IndepYear">1965</field>
+	<field name="Population">3567000</field>
+	<field name="LifeExpectancy">80.1</field>
+	<field name="GNP">86503.00</field>
+	<field name="GNPOld">96318.00</field>
+	<field name="LocalName">Singapore/Singapura/Xinjiapo/Singapur</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Sellapan Rama Nathan</field>
+	<field name="Capital">3208</field>
+	<field name="Code2">SG</field>
+  </row>
+
+  <row>
+	<field name="Code">SGS</field>
+	<field name="Name">South Georgia and the South Sandwich Islands</field>
+	<field name="Continent">Antarctica</field>
+	<field name="Region">Antarctica</field>
+	<field name="SurfaceArea">3903.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">0</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">South Georgia and the South Sandwich Islands</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital" xsi:nil="true" />
+	<field name="Code2">GS</field>
+  </row>
+
+  <row>
+	<field name="Code">SHN</field>
+	<field name="Name">Saint Helena</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">314.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">6000</field>
+	<field name="LifeExpectancy">76.8</field>
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Saint Helena</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">3063</field>
+	<field name="Code2">SH</field>
+  </row>
+
+  <row>
+	<field name="Code">SJM</field>
+	<field name="Name">Svalbard and Jan Mayen</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Nordic Countries</field>
+	<field name="SurfaceArea">62422.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">3200</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Svalbard og Jan Mayen</field>
+	<field name="GovernmentForm">Dependent Territory of Norway</field>
+	<field name="HeadOfState">Harald V</field>
+	<field name="Capital">938</field>
+	<field name="Code2">SJ</field>
+  </row>
+
+  <row>
+	<field name="Code">SLB</field>
+	<field name="Name">Solomon Islands</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Melanesia</field>
+	<field name="SurfaceArea">28896.00</field>
+	<field name="IndepYear">1978</field>
+	<field name="Population">444000</field>
+	<field name="LifeExpectancy">71.3</field>
+	<field name="GNP">182.00</field>
+	<field name="GNPOld">220.00</field>
+	<field name="LocalName">Solomon Islands</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">3161</field>
+	<field name="Code2">SB</field>
+  </row>
+
+  <row>
+	<field name="Code">SLE</field>
+	<field name="Name">Sierra Leone</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">71740.00</field>
+	<field name="IndepYear">1961</field>
+	<field name="Population">4854000</field>
+	<field name="LifeExpectancy">45.3</field>
+	<field name="GNP">746.00</field>
+	<field name="GNPOld">858.00</field>
+	<field name="LocalName">Sierra Leone</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ahmed Tejan Kabbah</field>
+	<field name="Capital">3207</field>
+	<field name="Code2">SL</field>
+  </row>
+
+  <row>
+	<field name="Code">SLV</field>
+	<field name="Name">El Salvador</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Central America</field>
+	<field name="SurfaceArea">21041.00</field>
+	<field name="IndepYear">1841</field>
+	<field name="Population">6276000</field>
+	<field name="LifeExpectancy">69.7</field>
+	<field name="GNP">11863.00</field>
+	<field name="GNPOld">11203.00</field>
+	<field name="LocalName">El Salvador</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Francisco Guillermo Flores Pérez</field>
+	<field name="Capital">645</field>
+	<field name="Code2">SV</field>
+  </row>
+
+  <row>
+	<field name="Code">SMR</field>
+	<field name="Name">San Marino</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">61.00</field>
+	<field name="IndepYear">885</field>
+	<field name="Population">27000</field>
+	<field name="LifeExpectancy">81.1</field>
+	<field name="GNP">510.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">San Marino</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState" xsi:nil="true" />
+	<field name="Capital">3171</field>
+	<field name="Code2">SM</field>
+  </row>
+
+  <row>
+	<field name="Code">SOM</field>
+	<field name="Name">Somalia</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">637657.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">10097000</field>
+	<field name="LifeExpectancy">46.2</field>
+	<field name="GNP">935.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Soomaaliya</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Abdiqassim Salad Hassan</field>
+	<field name="Capital">3214</field>
+	<field name="Code2">SO</field>
+  </row>
+
+  <row>
+	<field name="Code">SPM</field>
+	<field name="Name">Saint Pierre and Miquelon</field>
+	<field name="Continent">North America</field>
+	<field name="Region">North America</field>
+	<field name="SurfaceArea">242.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">7000</field>
+	<field name="LifeExpectancy">77.6</field>
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Saint-Pierre-et-Miquelon</field>
+	<field name="GovernmentForm">Territorial Collectivity of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">3067</field>
+	<field name="Code2">PM</field>
+  </row>
+
+  <row>
+	<field name="Code">STP</field>
+	<field name="Name">Sao Tome and Principe</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Central Africa</field>
+	<field name="SurfaceArea">964.00</field>
+	<field name="IndepYear">1975</field>
+	<field name="Population">147000</field>
+	<field name="LifeExpectancy">65.3</field>
+	<field name="GNP">6.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">São Tomé e Príncipe</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Miguel Trovoada</field>
+	<field name="Capital">3172</field>
+	<field name="Code2">ST</field>
+  </row>
+
+  <row>
+	<field name="Code">SUR</field>
+	<field name="Name">Suriname</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">163265.00</field>
+	<field name="IndepYear">1975</field>
+	<field name="Population">417000</field>
+	<field name="LifeExpectancy">71.4</field>
+	<field name="GNP">870.00</field>
+	<field name="GNPOld">706.00</field>
+	<field name="LocalName">Suriname</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ronald Venetiaan</field>
+	<field name="Capital">3243</field>
+	<field name="Code2">SR</field>
+  </row>
+
+  <row>
+	<field name="Code">SVK</field>
+	<field name="Name">Slovakia</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">49012.00</field>
+	<field name="IndepYear">1993</field>
+	<field name="Population">5398700</field>
+	<field name="LifeExpectancy">73.7</field>
+	<field name="GNP">20594.00</field>
+	<field name="GNPOld">19452.00</field>
+	<field name="LocalName">Slovensko</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Rudolf Schuster</field>
+	<field name="Capital">3209</field>
+	<field name="Code2">SK</field>
+  </row>
+
+  <row>
+	<field name="Code">SVN</field>
+	<field name="Name">Slovenia</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">20256.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">1987800</field>
+	<field name="LifeExpectancy">74.9</field>
+	<field name="GNP">19756.00</field>
+	<field name="GNPOld">18202.00</field>
+	<field name="LocalName">Slovenija</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Milan Kucan</field>
+	<field name="Capital">3212</field>
+	<field name="Code2">SI</field>
+  </row>
+
+  <row>
+	<field name="Code">SWE</field>
+	<field name="Name">Sweden</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Nordic Countries</field>
+	<field name="SurfaceArea">449964.00</field>
+	<field name="IndepYear">836</field>
+	<field name="Population">8861400</field>
+	<field name="LifeExpectancy">79.6</field>
+	<field name="GNP">226492.00</field>
+	<field name="GNPOld">227757.00</field>
+	<field name="LocalName">Sverige</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Carl XVI Gustaf</field>
+	<field name="Capital">3048</field>
+	<field name="Code2">SE</field>
+  </row>
+
+  <row>
+	<field name="Code">SWZ</field>
+	<field name="Name">Swaziland</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Southern Africa</field>
+	<field name="SurfaceArea">17364.00</field>
+	<field name="IndepYear">1968</field>
+	<field name="Population">1008000</field>
+	<field name="LifeExpectancy">40.4</field>
+	<field name="GNP">1206.00</field>
+	<field name="GNPOld">1312.00</field>
+	<field name="LocalName">kaNgwane</field>
+	<field name="GovernmentForm">Monarchy</field>
+	<field name="HeadOfState">Mswati III</field>
+	<field name="Capital">3244</field>
+	<field name="Code2">SZ</field>
+  </row>
+
+  <row>
+	<field name="Code">SYC</field>
+	<field name="Name">Seychelles</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">455.00</field>
+	<field name="IndepYear">1976</field>
+	<field name="Population">77000</field>
+	<field name="LifeExpectancy">70.4</field>
+	<field name="GNP">536.00</field>
+	<field name="GNPOld">539.00</field>
+	<field name="LocalName">Sesel/Seychelles</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">France-Albert René</field>
+	<field name="Capital">3206</field>
+	<field name="Code2">SC</field>
+  </row>
+
+  <row>
+	<field name="Code">SYR</field>
+	<field name="Name">Syria</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">185180.00</field>
+	<field name="IndepYear">1941</field>
+	<field name="Population">16125000</field>
+	<field name="LifeExpectancy">68.5</field>
+	<field name="GNP">65984.00</field>
+	<field name="GNPOld">64926.00</field>
+	<field name="LocalName">Suriya</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Bashar al-Assad</field>
+	<field name="Capital">3250</field>
+	<field name="Code2">SY</field>
+  </row>
+
+  <row>
+	<field name="Code">TCA</field>
+	<field name="Name">Turks and Caicos Islands</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">430.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">17000</field>
+	<field name="LifeExpectancy">73.3</field>
+	<field name="GNP">96.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">The Turks and Caicos Islands</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">3423</field>
+	<field name="Code2">TC</field>
+  </row>
+
+  <row>
+	<field name="Code">TCD</field>
+	<field name="Name">Chad</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Central Africa</field>
+	<field name="SurfaceArea">1284000.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">7651000</field>
+	<field name="LifeExpectancy">50.5</field>
+	<field name="GNP">1208.00</field>
+	<field name="GNPOld">1102.00</field>
+	<field name="LocalName">Tchad/Tshad</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Idriss Déby</field>
+	<field name="Capital">3337</field>
+	<field name="Code2">TD</field>
+  </row>
+
+  <row>
+	<field name="Code">TGO</field>
+	<field name="Name">Togo</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Western Africa</field>
+	<field name="SurfaceArea">56785.00</field>
+	<field name="IndepYear">1960</field>
+	<field name="Population">4629000</field>
+	<field name="LifeExpectancy">54.7</field>
+	<field name="GNP">1449.00</field>
+	<field name="GNPOld">1400.00</field>
+	<field name="LocalName">Togo</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Gnassingbé Eyadéma</field>
+	<field name="Capital">3332</field>
+	<field name="Code2">TG</field>
+  </row>
+
+  <row>
+	<field name="Code">THA</field>
+	<field name="Name">Thailand</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">513115.00</field>
+	<field name="IndepYear">1350</field>
+	<field name="Population">61399000</field>
+	<field name="LifeExpectancy">68.6</field>
+	<field name="GNP">116416.00</field>
+	<field name="GNPOld">153907.00</field>
+	<field name="LocalName">Prathet Thai</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Bhumibol Adulyadej</field>
+	<field name="Capital">3320</field>
+	<field name="Code2">TH</field>
+  </row>
+
+  <row>
+	<field name="Code">TJK</field>
+	<field name="Name">Tajikistan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">143100.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">6188000</field>
+	<field name="LifeExpectancy">64.1</field>
+	<field name="GNP">1990.00</field>
+	<field name="GNPOld">1056.00</field>
+	<field name="LocalName">Toçikiston</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Emomali Rahmonov</field>
+	<field name="Capital">3261</field>
+	<field name="Code2">TJ</field>
+  </row>
+
+  <row>
+	<field name="Code">TKL</field>
+	<field name="Name">Tokelau</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">12.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">2000</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Tokelau</field>
+	<field name="GovernmentForm">Nonmetropolitan Territory of New Zealand</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">3333</field>
+	<field name="Code2">TK</field>
+  </row>
+
+  <row>
+	<field name="Code">TKM</field>
+	<field name="Name">Turkmenistan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">488100.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">4459000</field>
+	<field name="LifeExpectancy">60.9</field>
+	<field name="GNP">4397.00</field>
+	<field name="GNPOld">2000.00</field>
+	<field name="LocalName">Türkmenostan</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Saparmurad Nijazov</field>
+	<field name="Capital">3419</field>
+	<field name="Code2">TM</field>
+  </row>
+
+  <row>
+	<field name="Code">TMP</field>
+	<field name="Name">East Timor</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">14874.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">885000</field>
+	<field name="LifeExpectancy">46.0</field>
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Timor Timur</field>
+	<field name="GovernmentForm">Administrated by the UN</field>
+	<field name="HeadOfState">José Alexandre Gusmão</field>
+	<field name="Capital">1522</field>
+	<field name="Code2">TP</field>
+  </row>
+
+  <row>
+	<field name="Code">TON</field>
+	<field name="Name">Tonga</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">650.00</field>
+	<field name="IndepYear">1970</field>
+	<field name="Population">99000</field>
+	<field name="LifeExpectancy">67.9</field>
+	<field name="GNP">146.00</field>
+	<field name="GNPOld">170.00</field>
+	<field name="LocalName">Tonga</field>
+	<field name="GovernmentForm">Monarchy</field>
+	<field name="HeadOfState">Taufa'ahau Tupou IV</field>
+	<field name="Capital">3334</field>
+	<field name="Code2">TO</field>
+  </row>
+
+  <row>
+	<field name="Code">TTO</field>
+	<field name="Name">Trinidad and Tobago</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">5130.00</field>
+	<field name="IndepYear">1962</field>
+	<field name="Population">1295000</field>
+	<field name="LifeExpectancy">68.0</field>
+	<field name="GNP">6232.00</field>
+	<field name="GNPOld">5867.00</field>
+	<field name="LocalName">Trinidad and Tobago</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Arthur N. R. Robinson</field>
+	<field name="Capital">3336</field>
+	<field name="Code2">TT</field>
+  </row>
+
+  <row>
+	<field name="Code">TUN</field>
+	<field name="Name">Tunisia</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Northern Africa</field>
+	<field name="SurfaceArea">163610.00</field>
+	<field name="IndepYear">1956</field>
+	<field name="Population">9586000</field>
+	<field name="LifeExpectancy">73.7</field>
+	<field name="GNP">20026.00</field>
+	<field name="GNPOld">18898.00</field>
+	<field name="LocalName">Tunis/Tunisie</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Zine al-Abidine Ben Ali</field>
+	<field name="Capital">3349</field>
+	<field name="Code2">TN</field>
+  </row>
+
+  <row>
+	<field name="Code">TUR</field>
+	<field name="Name">Turkey</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">774815.00</field>
+	<field name="IndepYear">1923</field>
+	<field name="Population">66591000</field>
+	<field name="LifeExpectancy">71.0</field>
+	<field name="GNP">210721.00</field>
+	<field name="GNPOld">189122.00</field>
+	<field name="LocalName">Türkiye</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ahmet Necdet Sezer</field>
+	<field name="Capital">3358</field>
+	<field name="Code2">TR</field>
+  </row>
+
+  <row>
+	<field name="Code">TUV</field>
+	<field name="Name">Tuvalu</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">26.00</field>
+	<field name="IndepYear">1978</field>
+	<field name="Population">12000</field>
+	<field name="LifeExpectancy">66.3</field>
+	<field name="GNP">6.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Tuvalu</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">3424</field>
+	<field name="Code2">TV</field>
+  </row>
+
+  <row>
+	<field name="Code">TWN</field>
+	<field name="Name">Taiwan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Eastern Asia</field>
+	<field name="SurfaceArea">36188.00</field>
+	<field name="IndepYear">1945</field>
+	<field name="Population">22256000</field>
+	<field name="LifeExpectancy">76.4</field>
+	<field name="GNP">256254.00</field>
+	<field name="GNPOld">263451.00</field>
+	<field name="LocalName">T’ai-wan</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Chen Shui-bian</field>
+	<field name="Capital">3263</field>
+	<field name="Code2">TW</field>
+  </row>
+
+  <row>
+	<field name="Code">TZA</field>
+	<field name="Name">Tanzania</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">883749.00</field>
+	<field name="IndepYear">1961</field>
+	<field name="Population">33517000</field>
+	<field name="LifeExpectancy">52.3</field>
+	<field name="GNP">8005.00</field>
+	<field name="GNPOld">7388.00</field>
+	<field name="LocalName">Tanzania</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Benjamin William Mkapa</field>
+	<field name="Capital">3306</field>
+	<field name="Code2">TZ</field>
+  </row>
+
+  <row>
+	<field name="Code">UGA</field>
+	<field name="Name">Uganda</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">241038.00</field>
+	<field name="IndepYear">1962</field>
+	<field name="Population">21778000</field>
+	<field name="LifeExpectancy">42.9</field>
+	<field name="GNP">6313.00</field>
+	<field name="GNPOld">6887.00</field>
+	<field name="LocalName">Uganda</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Yoweri Museveni</field>
+	<field name="Capital">3425</field>
+	<field name="Code2">UG</field>
+  </row>
+
+  <row>
+	<field name="Code">UKR</field>
+	<field name="Name">Ukraine</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Eastern Europe</field>
+	<field name="SurfaceArea">603700.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">50456000</field>
+	<field name="LifeExpectancy">66.0</field>
+	<field name="GNP">42168.00</field>
+	<field name="GNPOld">49677.00</field>
+	<field name="LocalName">Ukrajina</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Leonid Kutšma</field>
+	<field name="Capital">3426</field>
+	<field name="Code2">UA</field>
+  </row>
+
+  <row>
+	<field name="Code">UMI</field>
+	<field name="Name">United States Minor Outlying Islands</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Micronesia/Caribbean</field>
+	<field name="SurfaceArea">16.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">0</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">United States Minor Outlying Islands</field>
+	<field name="GovernmentForm">Dependent Territory of the US</field>
+	<field name="HeadOfState">George W. Bush</field>
+	<field name="Capital" xsi:nil="true" />
+	<field name="Code2">UM</field>
+  </row>
+
+  <row>
+	<field name="Code">URY</field>
+	<field name="Name">Uruguay</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">175016.00</field>
+	<field name="IndepYear">1828</field>
+	<field name="Population">3337000</field>
+	<field name="LifeExpectancy">75.2</field>
+	<field name="GNP">20831.00</field>
+	<field name="GNPOld">19967.00</field>
+	<field name="LocalName">Uruguay</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Jorge Batlle Ibáñez</field>
+	<field name="Capital">3492</field>
+	<field name="Code2">UY</field>
+  </row>
+
+  <row>
+	<field name="Code">USA</field>
+	<field name="Name">United States</field>
+	<field name="Continent">North America</field>
+	<field name="Region">North America</field>
+	<field name="SurfaceArea">9363520.00</field>
+	<field name="IndepYear">1776</field>
+	<field name="Population">278357000</field>
+	<field name="LifeExpectancy">77.1</field>
+	<field name="GNP">8510700.00</field>
+	<field name="GNPOld">8110900.00</field>
+	<field name="LocalName">United States</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">George W. Bush</field>
+	<field name="Capital">3813</field>
+	<field name="Code2">US</field>
+  </row>
+
+  <row>
+	<field name="Code">UZB</field>
+	<field name="Name">Uzbekistan</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southern and Central Asia</field>
+	<field name="SurfaceArea">447400.00</field>
+	<field name="IndepYear">1991</field>
+	<field name="Population">24318000</field>
+	<field name="LifeExpectancy">63.7</field>
+	<field name="GNP">14194.00</field>
+	<field name="GNPOld">21300.00</field>
+	<field name="LocalName">Uzbekiston</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Islam Karimov</field>
+	<field name="Capital">3503</field>
+	<field name="Code2">UZ</field>
+  </row>
+
+  <row>
+	<field name="Code">VAT</field>
+	<field name="Name">Holy See (Vatican City State)</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">0.40</field>
+	<field name="IndepYear">1929</field>
+	<field name="Population">1000</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">9.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Santa Sede/Città del Vaticano</field>
+	<field name="GovernmentForm">Independent Church State</field>
+	<field name="HeadOfState">Johannes Paavali II</field>
+	<field name="Capital">3538</field>
+	<field name="Code2">VA</field>
+  </row>
+
+  <row>
+	<field name="Code">VCT</field>
+	<field name="Name">Saint Vincent and the Grenadines</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">388.00</field>
+	<field name="IndepYear">1979</field>
+	<field name="Population">114000</field>
+	<field name="LifeExpectancy">72.3</field>
+	<field name="GNP">285.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Saint Vincent and the Grenadines</field>
+	<field name="GovernmentForm">Constitutional Monarchy</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">3066</field>
+	<field name="Code2">VC</field>
+  </row>
+
+  <row>
+	<field name="Code">VEN</field>
+	<field name="Name">Venezuela</field>
+	<field name="Continent">South America</field>
+	<field name="Region">South America</field>
+	<field name="SurfaceArea">912050.00</field>
+	<field name="IndepYear">1811</field>
+	<field name="Population">24170000</field>
+	<field name="LifeExpectancy">73.1</field>
+	<field name="GNP">95023.00</field>
+	<field name="GNPOld">88434.00</field>
+	<field name="LocalName">Venezuela</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Hugo Chávez Frías</field>
+	<field name="Capital">3539</field>
+	<field name="Code2">VE</field>
+  </row>
+
+  <row>
+	<field name="Code">VGB</field>
+	<field name="Name">Virgin Islands, British</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">151.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">21000</field>
+	<field name="LifeExpectancy">75.4</field>
+	<field name="GNP">612.00</field>
+	<field name="GNPOld">573.00</field>
+	<field name="LocalName">British Virgin Islands</field>
+	<field name="GovernmentForm">Dependent Territory of the UK</field>
+	<field name="HeadOfState">Elisabeth II</field>
+	<field name="Capital">537</field>
+	<field name="Code2">VG</field>
+  </row>
+
+  <row>
+	<field name="Code">VIR</field>
+	<field name="Name">Virgin Islands, U.S.</field>
+	<field name="Continent">North America</field>
+	<field name="Region">Caribbean</field>
+	<field name="SurfaceArea">347.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">93000</field>
+	<field name="LifeExpectancy">78.1</field>
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Virgin Islands of the United States</field>
+	<field name="GovernmentForm">US Territory</field>
+	<field name="HeadOfState">George W. Bush</field>
+	<field name="Capital">4067</field>
+	<field name="Code2">VI</field>
+  </row>
+
+  <row>
+	<field name="Code">VNM</field>
+	<field name="Name">Vietnam</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Southeast Asia</field>
+	<field name="SurfaceArea">331689.00</field>
+	<field name="IndepYear">1945</field>
+	<field name="Population">79832000</field>
+	<field name="LifeExpectancy">69.3</field>
+	<field name="GNP">21929.00</field>
+	<field name="GNPOld">22834.00</field>
+	<field name="LocalName">Viêt Nam</field>
+	<field name="GovernmentForm">Socialistic Republic</field>
+	<field name="HeadOfState">Trân Duc Luong</field>
+	<field name="Capital">3770</field>
+	<field name="Code2">VN</field>
+  </row>
+
+  <row>
+	<field name="Code">VUT</field>
+	<field name="Name">Vanuatu</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Melanesia</field>
+	<field name="SurfaceArea">12189.00</field>
+	<field name="IndepYear">1980</field>
+	<field name="Population">190000</field>
+	<field name="LifeExpectancy">60.6</field>
+	<field name="GNP">261.00</field>
+	<field name="GNPOld">246.00</field>
+	<field name="LocalName">Vanuatu</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">John Bani</field>
+	<field name="Capital">3537</field>
+	<field name="Code2">VU</field>
+  </row>
+
+  <row>
+	<field name="Code">WLF</field>
+	<field name="Name">Wallis and Futuna</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">200.00</field>
+	<field name="IndepYear" xsi:nil="true" />
+	<field name="Population">15000</field>
+	<field name="LifeExpectancy" xsi:nil="true" />
+	<field name="GNP">0.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Wallis-et-Futuna</field>
+	<field name="GovernmentForm">Nonmetropolitan Territory of France</field>
+	<field name="HeadOfState">Jacques Chirac</field>
+	<field name="Capital">3536</field>
+	<field name="Code2">WF</field>
+  </row>
+
+  <row>
+	<field name="Code">WSM</field>
+	<field name="Name">Samoa</field>
+	<field name="Continent">Oceania</field>
+	<field name="Region">Polynesia</field>
+	<field name="SurfaceArea">2831.00</field>
+	<field name="IndepYear">1962</field>
+	<field name="Population">180000</field>
+	<field name="LifeExpectancy">69.2</field>
+	<field name="GNP">141.00</field>
+	<field name="GNPOld">157.00</field>
+	<field name="LocalName">Samoa</field>
+	<field name="GovernmentForm">Parlementary Monarchy</field>
+	<field name="HeadOfState">Malietoa Tanumafili II</field>
+	<field name="Capital">3169</field>
+	<field name="Code2">WS</field>
+  </row>
+
+  <row>
+	<field name="Code">YEM</field>
+	<field name="Name">Yemen</field>
+	<field name="Continent">Asia</field>
+	<field name="Region">Middle East</field>
+	<field name="SurfaceArea">527968.00</field>
+	<field name="IndepYear">1918</field>
+	<field name="Population">18112000</field>
+	<field name="LifeExpectancy">59.8</field>
+	<field name="GNP">6041.00</field>
+	<field name="GNPOld">5729.00</field>
+	<field name="LocalName">Al-Yaman</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Ali Abdallah Salih</field>
+	<field name="Capital">1780</field>
+	<field name="Code2">YE</field>
+  </row>
+
+  <row>
+	<field name="Code">YUG</field>
+	<field name="Name">Yugoslavia</field>
+	<field name="Continent">Europe</field>
+	<field name="Region">Southern Europe</field>
+	<field name="SurfaceArea">102173.00</field>
+	<field name="IndepYear">1918</field>
+	<field name="Population">10640000</field>
+	<field name="LifeExpectancy">72.4</field>
+	<field name="GNP">17000.00</field>
+	<field name="GNPOld" xsi:nil="true" />
+	<field name="LocalName">Jugoslavija</field>
+	<field name="GovernmentForm">Federal Republic</field>
+	<field name="HeadOfState">Vojislav Koštunica</field>
+	<field name="Capital">1792</field>
+	<field name="Code2">YU</field>
+  </row>
+
+  <row>
+	<field name="Code">ZAF</field>
+	<field name="Name">South Africa</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Southern Africa</field>
+	<field name="SurfaceArea">1221037.00</field>
+	<field name="IndepYear">1910</field>
+	<field name="Population">40377000</field>
+	<field name="LifeExpectancy">51.1</field>
+	<field name="GNP">116729.00</field>
+	<field name="GNPOld">129092.00</field>
+	<field name="LocalName">South Africa</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Thabo Mbeki</field>
+	<field name="Capital">716</field>
+	<field name="Code2">ZA</field>
+  </row>
+
+  <row>
+	<field name="Code">ZMB</field>
+	<field name="Name">Zambia</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">752618.00</field>
+	<field name="IndepYear">1964</field>
+	<field name="Population">9169000</field>
+	<field name="LifeExpectancy">37.2</field>
+	<field name="GNP">3377.00</field>
+	<field name="GNPOld">3922.00</field>
+	<field name="LocalName">Zambia</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Frederick Chiluba</field>
+	<field name="Capital">3162</field>
+	<field name="Code2">ZM</field>
+  </row>
+
+  <row>
+	<field name="Code">ZWE</field>
+	<field name="Name">Zimbabwe</field>
+	<field name="Continent">Africa</field>
+	<field name="Region">Eastern Africa</field>
+	<field name="SurfaceArea">390757.00</field>
+	<field name="IndepYear">1980</field>
+	<field name="Population">11669000</field>
+	<field name="LifeExpectancy">37.8</field>
+	<field name="GNP">5951.00</field>
+	<field name="GNPOld">8670.00</field>
+	<field name="LocalName">Zimbabwe</field>
+	<field name="GovernmentForm">Republic</field>
+	<field name="HeadOfState">Robert G. Mugabe</field>
+	<field name="Capital">4068</field>
+	<field name="Code2">ZW</field>
+  </row>
+</resultset>

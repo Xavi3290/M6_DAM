@@ -1,0 +1,264 @@
+266607;x                                  ; 1
+266608;X                                  ; 1
+266609;xanadu                             ; 6
+266610;xantham                            ; 7
+266611;xanthan                            ; 7
+266612;xanthate                           ; 8
+266613;xanthates                          ; 9
+266614;xanthein                           ; 8
+266615;xanthene                           ; 8
+266616;xanthian                           ; 8
+266617;xanthic                            ; 7
+266618;xanthin                            ; 7
+266619;xanthine                           ; 8
+266620;xanthippe                          ; 9
+266621;xanthium                           ; 8
+266622;xanthochroi                        ;11
+266623;xanthochroia                       ;12
+266624;xanthochroic                       ;12
+266625;xanthochroid                       ;12
+266626;xanthochroids                      ;13
+266627;xanthochroism                      ;13
+266628;xanthochromia                      ;13
+266629;xanthochroous                      ;13
+266630;xanthoma                           ; 8
+266631;xanthomas                          ; 9
+266632;xanthomata                         ;10
+266633;xanthomatous                       ;12
+266634;xanthomelanous                     ;14
+266635;xanthophyll                        ;11
+266636;xanthopsia                         ;10
+266637;xanthopterin                       ;12
+266638;xanthoura                          ; 9
+266639;xanthous                           ; 8
+266640;xanthoxyl                          ; 9
+266641;xanthoxylum                        ;11
+266642;xantippe                           ; 8
+266643;xantoma                            ; 7
+266644;xavier                             ; 6
+266645;xebec                              ; 5
+266646;xebecs                             ; 6
+266647;xema                               ; 4
+266648;xenakis                            ; 7
+266649;xenarthra                          ; 9
+266650;xenarthral                         ;10
+266651;xenia                              ; 5
+266652;xenial                             ; 6
+266653;xenium                             ; 6
+266654;xenobiotic                         ;10
+266655;xenocrates                         ;10
+266656;xenocryst                          ; 9
+266657;xenocrysts                         ;10
+266658;xenodochium                        ;11
+266659;xenodochiums                       ;12
+266660;xenofobia                          ; 9
+266661;xenofobo                           ; 8
+266662;xenogamy                           ; 8
+266663;xenogenesis                        ;11
+266664;xenogenetic                        ;11
+266665;xenogenous                         ;10
+266666;xenoglossia                        ;11
+266667;xenograft                          ; 9
+266668;xenografts                         ;10
+266669;xenolith                           ; 8
+266670;xenoliths                          ; 9
+266671;xenomania                          ; 9
+266672;xenomorphic                        ;11
+266673;xenon                              ; 5
+266674;xenophanes                         ;10
+266675;xenophile                          ; 9
+266676;xenophiles                         ;10
+266677;xenophobe                          ; 9
+266678;xenophobes                         ;10
+266679;xenophobia                         ;10
+266680;xenophobic                         ;10
+266681;xenophoby                          ; 9
+266682;xenophon                           ; 8
+266683;xenophya                           ; 8
+266684;xenopus                            ; 7
+266685;xenotime                           ; 8
+266686;xenurus                            ; 7
+266687;xerafin                            ; 7
+266688;xerafins                           ; 8
+266689;xeransis                           ; 8
+266690;xeranthemum                        ;11
+266691;xeranthemums                       ;12
+266692;xerantic                           ; 8
+266693;xerarch                            ; 7
+266694;xerasia                            ; 7
+266695;xeres                              ; 5
+266696;xeric                              ; 5
+266697;xerocopia                          ; 9
+266698;xerocopiar                         ;10
+266699;xeroderma                          ; 9
+266700;xerodermatic                       ;12
+266701;xerodermatous                      ;13
+266702;xerodermia                         ;10
+266703;xerodermic                         ;10
+266704;xerofilo                           ; 8
+266705;xerofitico                         ;10
+266706;xerofito                           ; 8
+266707;xeroftalmia                        ;11
+266708;xerografia                         ;10
+266709;xerografiar                        ;11
+266710;xerografico                        ;11
+266711;xerografo                          ; 9
+266712;xerographic                        ;11
+266713;xerography                         ;10
+266714;xeroma                             ; 6
+266715;xeromas                            ; 7
+266716;xeromata                           ; 8
+266717;xeromorph                          ; 9
+266718;xeromorphic                        ;11
+266719;xeromorphous                       ;12
+266720;xeromorphs                         ;10
+266721;xerophagy                          ; 9
+266722;xerophilous                        ;11
+266723;xerophily                          ; 9
+266724;xerophthalmia                      ;13
+266725;xerophyte                          ; 9
+266726;xerophytes                         ;10
+266727;xerophytic                         ;10
+266728;xerosis                            ; 7
+266729;xerostoma                          ; 9
+266730;xerostomia                         ;10
+266731;xerotes                            ; 7
+266732;xerotic                            ; 7
+266733;xerotripsis                        ;11
+266734;xerox                              ; 5
+266735;xeroxed                            ; 7
+266736;xeroxes                            ; 7
+266737;xeroxing                           ; 8
+266738;xerxes                             ; 6
+266739;xhosa                              ; 5
+266740;xhosan                             ; 6
+266741;xhosas                             ; 6
+266742;xi                                 ; 2
+266743;xian                               ; 4
+266744;xians                              ; 5
+266745;xifoideo                           ; 8
+266746;xifoides                           ; 8
+266747;xii                                ; 3
+266748;xiii                               ; 4
+266749;xilema                             ; 6
+266750;xilofago                           ; 8
+266751;xilofonista                        ;11
+266752;xilofono                           ; 8
+266753;xilografia                         ;10
+266754;xilografico                        ;11
+266755;xilografo                          ; 9
+266756;xiloprotector                      ;13
+266757;xilorgano                          ; 9
+266758;xilotila                           ; 8
+266759;ximenean                           ; 8
+266760;ximenes                            ; 7
+266761;ximenez                            ; 7
+266762;xiphias                            ; 7
+266763;xiphihumeralis                     ;14
+266764;xiphihumeralises                   ;16
+266765;xiphiidae                          ; 9
+266766;xiphiplastral                      ;13
+266767;xiphiplastron                      ;13
+266768;xiphiplastrons                     ;14
+266769;xiphisternum                       ;12
+266770;xiphisternums                      ;13
+266771;xiphoid                            ; 7
+266772;xiphoidal                          ; 9
+266773;xiphopagic                         ;10
+266774;xiphopagous                        ;11
+266775;xiphopagus                         ;10
+266776;xiphopaguses                       ;12
+266777;xiphophyllous                      ;13
+266778;xiphosura                          ; 9
+266779;xiphosuran                         ;10
+266780;xiphosurans                        ;11
+266781;xiv                                ; 3
+266782;xix                                ; 3
+266783;xmas                               ; 4
+266784;xmases                             ; 6
+266785;xoana                              ; 5
+266786;xoanon                             ; 6
+266787;xosa                               ; 4
+266788;xray                               ; 4
+266789;xrays                              ; 5
+266790;xu                                 ; 2
+266791;xv                                 ; 2
+266792;xvi                                ; 3
+266793;xvii                               ; 4
+266794;xviii                              ; 5
+266795;xx                                 ; 2
+266796;xxi                                ; 3
+266797;xxii                               ; 4
+266798;xxiii                              ; 5
+266799;xxiv                               ; 4
+266800;xxix                               ; 4
+266801;xxv                                ; 3
+266802;xxvi                               ; 4
+266803;xxvii                              ; 5
+266804;xxviii                             ; 6
+266805;xxx                                ; 3
+266806;xylem                              ; 5
+266807;xylene                             ; 6
+266808;xylenes                            ; 7
+266809;xylenol                            ; 7
+266810;xylenols                           ; 8
+266811;xylic                              ; 5
+266812;xylitol                            ; 7
+266813;xylobalsamum                       ;12
+266814;xylocarp                           ; 8
+266815;xylocarpous                        ;11
+266816;xylocarps                          ; 9
+266817;xylogen                            ; 7
+266818;xylogenous                         ;10
+266819;xylograph                          ; 9
+266820;xylographer                        ;11
+266821;xylographers                       ;12
+266822;xylographic                        ;11
+266823;xylographical                      ;13
+266824;xylographs                         ;10
+266825;xylography                         ;10
+266826;xyloid                             ; 6
+266827;xyloidin                           ; 8
+266828;xylol                              ; 5
+266829;xylology                           ; 8
+266830;xylols                             ; 6
+266831;xyloma                             ; 6
+266832;xylomas                            ; 7
+266833;xylometer                          ; 9
+266834;xylometers                         ;10
+266835;xylonic                            ; 7
+266836;xylonite                           ; 8
+266837;xylophaga                          ; 9
+266838;xylophagan                         ;10
+266839;xylophagans                        ;11
+266840;xylophage                          ; 9
+266841;xylophages                         ;10
+266842;xylophagous                        ;11
+266843;xylophilous                        ;11
+266844;xylophone                          ; 9
+266845;xylophones                         ;10
+266846;xylophonic                         ;10
+266847;xylophonist                        ;11
+266848;xylophonists                       ;12
+266849;xylopia                            ; 7
+266850;xylopyrography                     ;14
+266851;xylorimba                          ; 9
+266852;xylorimbas                         ;10
+266853;xylose                             ; 6
+266854;xylotomous                         ;10
+266855;xylotypographic                    ;15
+266856;xylotypography                     ;14
+266857;xylyl                              ; 5
+266858;xylyls                             ; 6
+266859;xyridaceae                         ;10
+266860;xyridaceous                        ;11
+266861;xyridales                          ; 9
+266862;xyris                              ; 5
+266863;xyst                               ; 4
+266864;xyster                             ; 6
+266865;xysters                            ; 7
+266866;xysti                              ; 5
+266867;xystoi                             ; 6
+266868;xystos                             ; 6
+266869;xysts                              ; 5
+266870;xystus                             ; 6

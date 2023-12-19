@@ -1,0 +1,17 @@
+C:\C#\Exercici1\Exercici1\bin\Debug\Exercici1.exe.config
+C:\C#\Exercici1\Exercici1\bin\Debug\Exercici1.exe
+C:\C#\Exercici1\Exercici1\bin\Debug\Exercici1.pdb
+C:\C#\Exercici1\Exercici1\bin\Debug\EntityFramework.dll
+C:\C#\Exercici1\Exercici1\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Exercici1\Exercici1\bin\Debug\System.Data.SQLite.dll
+C:\C#\Exercici1\Exercici1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\C#\Exercici1\Exercici1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\C#\Exercici1\Exercici1\bin\Debug\EntityFramework.xml
+C:\C#\Exercici1\Exercici1\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Exercici1\Exercici1\bin\Debug\System.Data.SQLite.xml
+C:\C#\Exercici1\Exercici1\obj\Debug\Exercici1.csproj.AssemblyReference.cache
+C:\C#\Exercici1\Exercici1\obj\Debug\Exercici1.csproj.SuggestedBindingRedirects.cache
+C:\C#\Exercici1\Exercici1\obj\Debug\Exercici1.csproj.CoreCompileInputs.cache
+C:\C#\Exercici1\Exercici1\obj\Debug\Exercici1.csproj.CopyComplete
+C:\C#\Exercici1\Exercici1\obj\Debug\Exercici1.exe
+C:\C#\Exercici1\Exercici1\obj\Debug\Exercici1.pdb
